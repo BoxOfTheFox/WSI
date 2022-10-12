@@ -1,0 +1,2104 @@
+{
+  "scores": [
+    {
+      "beta": 0.1,
+      "gamma": 0.1,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.2,
+      "gamma": 0.1,
+      "epsilon": 0.5,
+      "success rate": 0.03996,
+      "success rate std": 0.1957632202432316
+    },
+    {
+      "beta": 0.3,
+      "gamma": 0.1,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.4,
+      "gamma": 0.1,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.5,
+      "gamma": 0.1,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.6,
+      "gamma": 0.1,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.7,
+      "gamma": 0.1,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.8,
+      "gamma": 0.1,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.9,
+      "gamma": 0.1,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 1.0,
+      "gamma": 0.1,
+      "epsilon": 0.5,
+      "success rate": 0.03996,
+      "success rate std": 0.1957632202432316
+    },
+    {
+      "beta": 0.1,
+      "gamma": 0.2,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.2,
+      "gamma": 0.2,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.3,
+      "gamma": 0.2,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.4,
+      "gamma": 0.2,
+      "epsilon": 0.5,
+      "success rate": 0.04,
+      "success rate std": 0.19595917942265426
+    },
+    {
+      "beta": 0.5,
+      "gamma": 0.2,
+      "epsilon": 0.5,
+      "success rate": 0.04,
+      "success rate std": 0.19595917942265428
+    },
+    {
+      "beta": 0.6,
+      "gamma": 0.2,
+      "epsilon": 0.5,
+      "success rate": 0.04,
+      "success rate std": 0.19595917942265426
+    },
+    {
+      "beta": 0.7,
+      "gamma": 0.2,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.8,
+      "gamma": 0.2,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.9,
+      "gamma": 0.2,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 1.0,
+      "gamma": 0.2,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.1,
+      "gamma": 0.3,
+      "epsilon": 0.5,
+      "success rate": 0.07996,
+      "success rate std": 0.2711575896042742
+    },
+    {
+      "beta": 0.2,
+      "gamma": 0.3,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.3,
+      "gamma": 0.3,
+      "epsilon": 0.5,
+      "success rate": 0.04,
+      "success rate std": 0.19595917942265428
+    },
+    {
+      "beta": 0.4,
+      "gamma": 0.3,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.5,
+      "gamma": 0.3,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.6,
+      "gamma": 0.3,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.7,
+      "gamma": 0.3,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.8,
+      "gamma": 0.3,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.9,
+      "gamma": 0.3,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 1.0,
+      "gamma": 0.3,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.1,
+      "gamma": 0.4,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.2,
+      "gamma": 0.4,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.3,
+      "gamma": 0.4,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.4,
+      "gamma": 0.4,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.5,
+      "gamma": 0.4,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.6,
+      "gamma": 0.4,
+      "epsilon": 0.5,
+      "success rate": 0.04,
+      "success rate std": 0.19595917942265426
+    },
+    {
+      "beta": 0.7,
+      "gamma": 0.4,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.8,
+      "gamma": 0.4,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.9,
+      "gamma": 0.4,
+      "epsilon": 0.5,
+      "success rate": 0.07992,
+      "success rate std": 0.2710220537151912
+    },
+    {
+      "beta": 1.0,
+      "gamma": 0.4,
+      "epsilon": 0.5,
+      "success rate": 0.0398,
+      "success rate std": 0.19497938352554098
+    },
+    {
+      "beta": 0.1,
+      "gamma": 0.5,
+      "epsilon": 0.5,
+      "success rate": 0.04,
+      "success rate std": 0.19595917942265426
+    },
+    {
+      "beta": 0.2,
+      "gamma": 0.5,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.3,
+      "gamma": 0.5,
+      "epsilon": 0.5,
+      "success rate": 0.04,
+      "success rate std": 0.19595917942265426
+    },
+    {
+      "beta": 0.4,
+      "gamma": 0.5,
+      "epsilon": 0.5,
+      "success rate": 0.04,
+      "success rate std": 0.19595917942265428
+    },
+    {
+      "beta": 0.5,
+      "gamma": 0.5,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.6,
+      "gamma": 0.5,
+      "epsilon": 0.5,
+      "success rate": 0.04,
+      "success rate std": 0.19595917942265428
+    },
+    {
+      "beta": 0.7,
+      "gamma": 0.5,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.8,
+      "gamma": 0.5,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.9,
+      "gamma": 0.5,
+      "epsilon": 0.5,
+      "success rate": 0.03912,
+      "success rate std": 0.19164807747535587
+    },
+    {
+      "beta": 1.0,
+      "gamma": 0.5,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.1,
+      "gamma": 0.6,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.2,
+      "gamma": 0.6,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.3,
+      "gamma": 0.6,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.4,
+      "gamma": 0.6,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.5,
+      "gamma": 0.6,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.6,
+      "gamma": 0.6,
+      "epsilon": 0.5,
+      "success rate": 0.08,
+      "success rate std": 0.2712931993250107
+    },
+    {
+      "beta": 0.7,
+      "gamma": 0.6,
+      "epsilon": 0.5,
+      "success rate": 0.07996,
+      "success rate std": 0.2711575896042742
+    },
+    {
+      "beta": 0.8,
+      "gamma": 0.6,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.9,
+      "gamma": 0.6,
+      "epsilon": 0.5,
+      "success rate": 0.07972,
+      "success rate std": 0.2703454856290373
+    },
+    {
+      "beta": 1.0,
+      "gamma": 0.6,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.1,
+      "gamma": 0.7,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.2,
+      "gamma": 0.7,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.3,
+      "gamma": 0.7,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.4,
+      "gamma": 0.7,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.5,
+      "gamma": 0.7,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.6,
+      "gamma": 0.7,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.7,
+      "gamma": 0.7,
+      "epsilon": 0.5,
+      "success rate": 0.03996,
+      "success rate std": 0.1957632202432316
+    },
+    {
+      "beta": 0.8,
+      "gamma": 0.7,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.9,
+      "gamma": 0.7,
+      "epsilon": 0.5,
+      "success rate": 0.04,
+      "success rate std": 0.19595917942265428
+    },
+    {
+      "beta": 1.0,
+      "gamma": 0.7,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.1,
+      "gamma": 0.8,
+      "epsilon": 0.5,
+      "success rate": 0.03996,
+      "success rate std": 0.1957632202432316
+    },
+    {
+      "beta": 0.2,
+      "gamma": 0.8,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.3,
+      "gamma": 0.8,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.4,
+      "gamma": 0.8,
+      "epsilon": 0.5,
+      "success rate": 0.03996,
+      "success rate std": 0.1957632202432316
+    },
+    {
+      "beta": 0.5,
+      "gamma": 0.8,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.6,
+      "gamma": 0.8,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.7,
+      "gamma": 0.8,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.8,
+      "gamma": 0.8,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.9,
+      "gamma": 0.8,
+      "epsilon": 0.5,
+      "success rate": 0.07804,
+      "success rate std": 0.26467829227195794
+    },
+    {
+      "beta": 1.0,
+      "gamma": 0.8,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.1,
+      "gamma": 0.9,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.2,
+      "gamma": 0.9,
+      "epsilon": 0.5,
+      "success rate": 0.039599999999999996,
+      "success rate std": 0.19399958762842773
+    },
+    {
+      "beta": 0.3,
+      "gamma": 0.9,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.4,
+      "gamma": 0.9,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.5,
+      "gamma": 0.9,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.6,
+      "gamma": 0.9,
+      "epsilon": 0.5,
+      "success rate": 0.0392,
+      "success rate std": 0.19203999583420117
+    },
+    {
+      "beta": 0.7,
+      "gamma": 0.9,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.8,
+      "gamma": 0.9,
+      "epsilon": 0.5,
+      "success rate": 0.07808,
+      "success rate std": 0.2648691631730655
+    },
+    {
+      "beta": 0.9,
+      "gamma": 0.9,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 1.0,
+      "gamma": 0.9,
+      "epsilon": 0.5,
+      "success rate": 0.07704,
+      "success rate std": 0.261310616699743
+    },
+    {
+      "beta": 0.1,
+      "gamma": 1.0,
+      "epsilon": 0.5,
+      "success rate": 0.04,
+      "success rate std": 0.19595917942265426
+    },
+    {
+      "beta": 0.2,
+      "gamma": 1.0,
+      "epsilon": 0.5,
+      "success rate": 0.03528,
+      "success rate std": 0.17283599625078105
+    },
+    {
+      "beta": 0.3,
+      "gamma": 1.0,
+      "epsilon": 0.5,
+      "success rate": 0.0332,
+      "success rate std": 0.16264611892080302
+    },
+    {
+      "beta": 0.4,
+      "gamma": 1.0,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.5,
+      "gamma": 1.0,
+      "epsilon": 0.5,
+      "success rate": 0.02112,
+      "success rate std": 0.10346644673516145
+    },
+    {
+      "beta": 0.6,
+      "gamma": 1.0,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.7,
+      "gamma": 1.0,
+      "epsilon": 0.5,
+      "success rate": 0.009479999999999999,
+      "success rate std": 0.046442325523169056
+    },
+    {
+      "beta": 0.8,
+      "gamma": 1.0,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.9,
+      "gamma": 1.0,
+      "epsilon": 0.5,
+      "success rate": 0.076,
+      "success rate std": 0.2577291601662489
+    },
+    {
+      "beta": 1.0,
+      "gamma": 1.0,
+      "epsilon": 0.5,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.1,
+      "gamma": 0.1,
+      "epsilon": 0.6,
+      "success rate": 0.39988,
+      "success rate std": 0.48975130995230637
+    },
+    {
+      "beta": 0.2,
+      "gamma": 0.1,
+      "epsilon": 0.6,
+      "success rate": 0.47996,
+      "success rate std": 0.4995582432509747
+    },
+    {
+      "beta": 0.3,
+      "gamma": 0.1,
+      "epsilon": 0.6,
+      "success rate": 0.19984000000000002,
+      "success rate std": 0.3996806405118967
+    },
+    {
+      "beta": 0.4,
+      "gamma": 0.1,
+      "epsilon": 0.6,
+      "success rate": 0.23996000000000003,
+      "success rate std": 0.4270119885904844
+    },
+    {
+      "beta": 0.5,
+      "gamma": 0.1,
+      "epsilon": 0.6,
+      "success rate": 0.35975999999999997,
+      "success rate std": 0.4796809172773084
+    },
+    {
+      "beta": 0.6,
+      "gamma": 0.1,
+      "epsilon": 0.6,
+      "success rate": 0.28,
+      "success rate std": 0.448998886412873
+    },
+    {
+      "beta": 0.7,
+      "gamma": 0.1,
+      "epsilon": 0.6,
+      "success rate": 0.35975999999999997,
+      "success rate std": 0.4796802501667126
+    },
+    {
+      "beta": 0.8,
+      "gamma": 0.1,
+      "epsilon": 0.6,
+      "success rate": 0.23964,
+      "success rate std": 0.42644435791788826
+    },
+    {
+      "beta": 0.9,
+      "gamma": 0.1,
+      "epsilon": 0.6,
+      "success rate": 0.31792,
+      "success rate std": 0.46348168636959114
+    },
+    {
+      "beta": 1.0,
+      "gamma": 0.1,
+      "epsilon": 0.6,
+      "success rate": 0.31464,
+      "success rate std": 0.4587890914134729
+    },
+    {
+      "beta": 0.1,
+      "gamma": 0.2,
+      "epsilon": 0.6,
+      "success rate": 0.35996,
+      "success rate std": 0.4799467037078179
+    },
+    {
+      "beta": 0.2,
+      "gamma": 0.2,
+      "epsilon": 0.6,
+      "success rate": 0.19992000000000001,
+      "success rate std": 0.3998401600639936
+    },
+    {
+      "beta": 0.3,
+      "gamma": 0.2,
+      "epsilon": 0.6,
+      "success rate": 0.2798,
+      "success rate std": 0.44867912810827293
+    },
+    {
+      "beta": 0.4,
+      "gamma": 0.2,
+      "epsilon": 0.6,
+      "success rate": 0.35960000000000003,
+      "success rate std": 0.47946745457851464
+    },
+    {
+      "beta": 0.5,
+      "gamma": 0.2,
+      "epsilon": 0.6,
+      "success rate": 0.23996000000000003,
+      "success rate std": 0.42701198859048445
+    },
+    {
+      "beta": 0.6,
+      "gamma": 0.2,
+      "epsilon": 0.6,
+      "success rate": 0.43936,
+      "success rate std": 0.4956676208912581
+    },
+    {
+      "beta": 0.7,
+      "gamma": 0.2,
+      "epsilon": 0.6,
+      "success rate": 0.12,
+      "success rate std": 0.32496153618543844
+    },
+    {
+      "beta": 0.8,
+      "gamma": 0.2,
+      "epsilon": 0.6,
+      "success rate": 0.2,
+      "success rate std": 0.4
+    },
+    {
+      "beta": 0.9,
+      "gamma": 0.2,
+      "epsilon": 0.6,
+      "success rate": 0.23887999999999998,
+      "success rate std": 0.4251137560700665
+    },
+    {
+      "beta": 1.0,
+      "gamma": 0.2,
+      "epsilon": 0.6,
+      "success rate": 0.07908,
+      "success rate std": 0.26818977161703983
+    },
+    {
+      "beta": 0.1,
+      "gamma": 0.3,
+      "epsilon": 0.6,
+      "success rate": 0.27996000000000004,
+      "success rate std": 0.44893478190044483
+    },
+    {
+      "beta": 0.2,
+      "gamma": 0.3,
+      "epsilon": 0.6,
+      "success rate": 0.35992,
+      "success rate std": 0.4798934815143877
+    },
+    {
+      "beta": 0.3,
+      "gamma": 0.3,
+      "epsilon": 0.6,
+      "success rate": 0.27988,
+      "success rate std": 0.4488066238370374
+    },
+    {
+      "beta": 0.4,
+      "gamma": 0.3,
+      "epsilon": 0.6,
+      "success rate": 0.23984000000000003,
+      "success rate std": 0.42679875163828673
+    },
+    {
+      "beta": 0.5,
+      "gamma": 0.3,
+      "epsilon": 0.6,
+      "success rate": 0.31964,
+      "success rate std": 0.4659531203887361
+    },
+    {
+      "beta": 0.6,
+      "gamma": 0.3,
+      "epsilon": 0.6,
+      "success rate": 0.23932000000000003,
+      "success rate std": 0.42587948717917845
+    },
+    {
+      "beta": 0.7,
+      "gamma": 0.3,
+      "epsilon": 0.6,
+      "success rate": 0.19899999999999998,
+      "success rate std": 0.3980251248351039
+    },
+    {
+      "beta": 0.8,
+      "gamma": 0.3,
+      "epsilon": 0.6,
+      "success rate": 0.43692,
+      "success rate std": 0.4929507009833742
+    },
+    {
+      "beta": 0.9,
+      "gamma": 0.3,
+      "epsilon": 0.6,
+      "success rate": 0.31964,
+      "success rate std": 0.4659516610121698
+    },
+    {
+      "beta": 1.0,
+      "gamma": 0.3,
+      "epsilon": 0.6,
+      "success rate": 0.19643999999999998,
+      "success rate std": 0.39292656616726745
+    },
+    {
+      "beta": 0.1,
+      "gamma": 0.4,
+      "epsilon": 0.6,
+      "success rate": 0.35548,
+      "success rate std": 0.4744152712550472
+    },
+    {
+      "beta": 0.2,
+      "gamma": 0.4,
+      "epsilon": 0.6,
+      "success rate": 0.43948,
+      "success rate std": 0.4958039225338985
+    },
+    {
+      "beta": 0.3,
+      "gamma": 0.4,
+      "epsilon": 0.6,
+      "success rate": 0.16,
+      "success rate std": 0.36660605559646714
+    },
+    {
+      "beta": 0.4,
+      "gamma": 0.4,
+      "epsilon": 0.6,
+      "success rate": 0.35948,
+      "success rate std": 0.4793086788281639
+    },
+    {
+      "beta": 0.5,
+      "gamma": 0.4,
+      "epsilon": 0.6,
+      "success rate": 0.19963999999999998,
+      "success rate std": 0.39928244439243754
+    },
+    {
+      "beta": 0.6,
+      "gamma": 0.4,
+      "epsilon": 0.6,
+      "success rate": 0.19992000000000001,
+      "success rate std": 0.3998401600639936
+    },
+    {
+      "beta": 0.7,
+      "gamma": 0.4,
+      "epsilon": 0.6,
+      "success rate": 0.23996000000000003,
+      "success rate std": 0.4270119885904844
+    },
+    {
+      "beta": 0.8,
+      "gamma": 0.4,
+      "epsilon": 0.6,
+      "success rate": 0.35984,
+      "success rate std": 0.4797870094114679
+    },
+    {
+      "beta": 0.9,
+      "gamma": 0.4,
+      "epsilon": 0.6,
+      "success rate": 0.3428,
+      "success rate std": 0.4589511520848379
+    },
+    {
+      "beta": 1.0,
+      "gamma": 0.4,
+      "epsilon": 0.6,
+      "success rate": 0.27568000000000004,
+      "success rate std": 0.4423950921970089
+    },
+    {
+      "beta": 0.1,
+      "gamma": 0.5,
+      "epsilon": 0.6,
+      "success rate": 0.19996000000000003,
+      "success rate std": 0.39992004000799963
+    },
+    {
+      "beta": 0.2,
+      "gamma": 0.5,
+      "epsilon": 0.6,
+      "success rate": 0.23939999999999997,
+      "success rate std": 0.4260183094656848
+    },
+    {
+      "beta": 0.3,
+      "gamma": 0.5,
+      "epsilon": 0.6,
+      "success rate": 0.31988000000000005,
+      "success rate std": 0.466301389232329
+    },
+    {
+      "beta": 0.4,
+      "gamma": 0.5,
+      "epsilon": 0.6,
+      "success rate": 0.2,
+      "success rate std": 0.4
+    },
+    {
+      "beta": 0.5,
+      "gamma": 0.5,
+      "epsilon": 0.6,
+      "success rate": 0.23987999999999998,
+      "success rate std": 0.42686975250068965
+    },
+    {
+      "beta": 0.6,
+      "gamma": 0.5,
+      "epsilon": 0.6,
+      "success rate": 0.27964,
+      "success rate std": 0.44842344987745675
+    },
+    {
+      "beta": 0.7,
+      "gamma": 0.5,
+      "epsilon": 0.6,
+      "success rate": 0.27172,
+      "success rate std": 0.43718632366532234
+    },
+    {
+      "beta": 0.8,
+      "gamma": 0.5,
+      "epsilon": 0.6,
+      "success rate": 0.11992000000000001,
+      "success rate std": 0.32474505939274895
+    },
+    {
+      "beta": 0.9,
+      "gamma": 0.5,
+      "epsilon": 0.6,
+      "success rate": 0.31516,
+      "success rate std": 0.4595061418523152
+    },
+    {
+      "beta": 1.0,
+      "gamma": 0.5,
+      "epsilon": 0.6,
+      "success rate": 0.23868000000000003,
+      "success rate std": 0.4247583520073502
+    },
+    {
+      "beta": 0.1,
+      "gamma": 0.6,
+      "epsilon": 0.6,
+      "success rate": 0.31936,
+      "success rate std": 0.46554844044417115
+    },
+    {
+      "beta": 0.2,
+      "gamma": 0.6,
+      "epsilon": 0.6,
+      "success rate": 0.27968,
+      "success rate std": 0.4484881911488864
+    },
+    {
+      "beta": 0.3,
+      "gamma": 0.6,
+      "epsilon": 0.6,
+      "success rate": 0.23968,
+      "success rate std": 0.4265140297809675
+    },
+    {
+      "beta": 0.4,
+      "gamma": 0.6,
+      "epsilon": 0.6,
+      "success rate": 0.51916,
+      "success rate std": 0.4987978091371292
+    },
+    {
+      "beta": 0.5,
+      "gamma": 0.6,
+      "epsilon": 0.6,
+      "success rate": 0.23948,
+      "success rate std": 0.4261594180585476
+    },
+    {
+      "beta": 0.6,
+      "gamma": 0.6,
+      "epsilon": 0.6,
+      "success rate": 0.31927999999999995,
+      "success rate std": 0.46543214500075086
+    },
+    {
+      "beta": 0.7,
+      "gamma": 0.6,
+      "epsilon": 0.6,
+      "success rate": 0.19976,
+      "success rate std": 0.3995214417274748
+    },
+    {
+      "beta": 0.8,
+      "gamma": 0.6,
+      "epsilon": 0.6,
+      "success rate": 0.27928,
+      "success rate std": 0.4478492174828488
+    },
+    {
+      "beta": 0.9,
+      "gamma": 0.6,
+      "epsilon": 0.6,
+      "success rate": 0.46304,
+      "success rate std": 0.4845284288873048
+    },
+    {
+      "beta": 1.0,
+      "gamma": 0.6,
+      "epsilon": 0.6,
+      "success rate": 0.31588,
+      "success rate std": 0.46070991480540113
+    },
+    {
+      "beta": 0.1,
+      "gamma": 0.7,
+      "epsilon": 0.6,
+      "success rate": 0.27952,
+      "success rate std": 0.4482328073668861
+    },
+    {
+      "beta": 0.2,
+      "gamma": 0.7,
+      "epsilon": 0.6,
+      "success rate": 0.3968,
+      "success rate std": 0.48610764240032267
+    },
+    {
+      "beta": 0.3,
+      "gamma": 0.7,
+      "epsilon": 0.6,
+      "success rate": 0.31996,
+      "success rate std": 0.4664178795886796
+    },
+    {
+      "beta": 0.4,
+      "gamma": 0.7,
+      "epsilon": 0.6,
+      "success rate": 0.27699999999999997,
+      "success rate std": 0.4443452711574638
+    },
+    {
+      "beta": 0.5,
+      "gamma": 0.7,
+      "epsilon": 0.6,
+      "success rate": 0.19928,
+      "success rate std": 0.39857130052225287
+    },
+    {
+      "beta": 0.6,
+      "gamma": 0.7,
+      "epsilon": 0.6,
+      "success rate": 0.23984000000000003,
+      "success rate std": 0.4267985641962728
+    },
+    {
+      "beta": 0.7,
+      "gamma": 0.7,
+      "epsilon": 0.6,
+      "success rate": 0.15768,
+      "success rate std": 0.36132065758824256
+    },
+    {
+      "beta": 0.8,
+      "gamma": 0.7,
+      "epsilon": 0.6,
+      "success rate": 0.1588,
+      "success rate std": 0.36386360081766905
+    },
+    {
+      "beta": 0.9,
+      "gamma": 0.7,
+      "epsilon": 0.6,
+      "success rate": 0.3594,
+      "success rate std": 0.47920367277390524
+    },
+    {
+      "beta": 1.0,
+      "gamma": 0.7,
+      "epsilon": 0.6,
+      "success rate": 0.2752,
+      "success rate std": 0.44164981603075526
+    },
+    {
+      "beta": 0.1,
+      "gamma": 0.8,
+      "epsilon": 0.6,
+      "success rate": 0.39952,
+      "success rate std": 0.4893112808836518
+    },
+    {
+      "beta": 0.2,
+      "gamma": 0.8,
+      "epsilon": 0.6,
+      "success rate": 0.27815999999999996,
+      "success rate std": 0.44607485291148163
+    },
+    {
+      "beta": 0.3,
+      "gamma": 0.8,
+      "epsilon": 0.6,
+      "success rate": 0.27908,
+      "success rate std": 0.44752840535545896
+    },
+    {
+      "beta": 0.4,
+      "gamma": 0.8,
+      "epsilon": 0.6,
+      "success rate": 0.27864,
+      "success rate std": 0.44682729370529733
+    },
+    {
+      "beta": 0.5,
+      "gamma": 0.8,
+      "epsilon": 0.6,
+      "success rate": 0.31824,
+      "success rate std": 0.4639479522532673
+    },
+    {
+      "beta": 0.6,
+      "gamma": 0.8,
+      "epsilon": 0.6,
+      "success rate": 0.11335999999999999,
+      "success rate std": 0.3081322936662108
+    },
+    {
+      "beta": 0.7,
+      "gamma": 0.8,
+      "epsilon": 0.6,
+      "success rate": 0.27843999999999997,
+      "success rate std": 0.4465111044531815
+    },
+    {
+      "beta": 0.8,
+      "gamma": 0.8,
+      "epsilon": 0.6,
+      "success rate": 0.19668,
+      "success rate std": 0.3934461813259852
+    },
+    {
+      "beta": 0.9,
+      "gamma": 0.8,
+      "epsilon": 0.6,
+      "success rate": 0.2384,
+      "success rate std": 0.42424879493052187
+    },
+    {
+      "beta": 1.0,
+      "gamma": 0.8,
+      "epsilon": 0.6,
+      "success rate": 0.19344,
+      "success rate std": 0.38732891242456974
+    },
+    {
+      "beta": 0.1,
+      "gamma": 0.9,
+      "epsilon": 0.6,
+      "success rate": 0.23759999999999998,
+      "success rate std": 0.4228462604777297
+    },
+    {
+      "beta": 0.2,
+      "gamma": 0.9,
+      "epsilon": 0.6,
+      "success rate": 0.35508,
+      "success rate std": 0.4735254941394391
+    },
+    {
+      "beta": 0.3,
+      "gamma": 0.9,
+      "epsilon": 0.6,
+      "success rate": 0.23572000000000004,
+      "success rate std": 0.4196745901290665
+    },
+    {
+      "beta": 0.4,
+      "gamma": 0.9,
+      "epsilon": 0.6,
+      "success rate": 0.19876000000000002,
+      "success rate std": 0.39752577576806264
+    },
+    {
+      "beta": 0.5,
+      "gamma": 0.9,
+      "epsilon": 0.6,
+      "success rate": 0.31376000000000004,
+      "success rate std": 0.457506046298844
+    },
+    {
+      "beta": 0.6,
+      "gamma": 0.9,
+      "epsilon": 0.6,
+      "success rate": 0.23304000000000002,
+      "success rate std": 0.4150909760522385
+    },
+    {
+      "beta": 0.7,
+      "gamma": 0.9,
+      "epsilon": 0.6,
+      "success rate": 0.31648,
+      "success rate std": 0.4614418377217219
+    },
+    {
+      "beta": 0.8,
+      "gamma": 0.9,
+      "epsilon": 0.6,
+      "success rate": 0.19848,
+      "success rate std": 0.3969646956594503
+    },
+    {
+      "beta": 0.9,
+      "gamma": 0.9,
+      "epsilon": 0.6,
+      "success rate": 0.23271999999999998,
+      "success rate std": 0.41456314549173323
+    },
+    {
+      "beta": 1.0,
+      "gamma": 0.9,
+      "epsilon": 0.6,
+      "success rate": 0.35631999999999997,
+      "success rate std": 0.4751338102050831
+    },
+    {
+      "beta": 0.1,
+      "gamma": 1.0,
+      "epsilon": 0.6,
+      "success rate": 0.37544,
+      "success rate std": 0.46061811340849373
+    },
+    {
+      "beta": 0.2,
+      "gamma": 1.0,
+      "epsilon": 0.6,
+      "success rate": 0.34312,
+      "success rate std": 0.4212525437311922
+    },
+    {
+      "beta": 0.3,
+      "gamma": 1.0,
+      "epsilon": 0.6,
+      "success rate": 0.23887999999999998,
+      "success rate std": 0.38445944597577514
+    },
+    {
+      "beta": 0.4,
+      "gamma": 1.0,
+      "epsilon": 0.6,
+      "success rate": 0.081,
+      "success rate std": 0.22290966780290175
+    },
+    {
+      "beta": 0.5,
+      "gamma": 1.0,
+      "epsilon": 0.6,
+      "success rate": 0.20435999999999999,
+      "success rate std": 0.33389841329362435
+    },
+    {
+      "beta": 0.6,
+      "gamma": 1.0,
+      "epsilon": 0.6,
+      "success rate": 0.12948,
+      "success rate std": 0.2619007628854868
+    },
+    {
+      "beta": 0.7,
+      "gamma": 1.0,
+      "epsilon": 0.6,
+      "success rate": 0.0326,
+      "success rate std": 0.12273679155004825
+    },
+    {
+      "beta": 0.8,
+      "gamma": 1.0,
+      "epsilon": 0.6,
+      "success rate": 0.10544,
+      "success rate std": 0.24889581434809224
+    },
+    {
+      "beta": 0.9,
+      "gamma": 1.0,
+      "epsilon": 0.6,
+      "success rate": 0.1234,
+      "success rate std": 0.28560434170369325
+    },
+    {
+      "beta": 1.0,
+      "gamma": 1.0,
+      "epsilon": 0.6,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.1,
+      "gamma": 0.1,
+      "epsilon": 0.7,
+      "success rate": 0.8398399999999999,
+      "success rate std": 0.3665364025577814
+    },
+    {
+      "beta": 0.2,
+      "gamma": 0.1,
+      "epsilon": 0.7,
+      "success rate": 0.83996,
+      "success rate std": 0.3665886501243594
+    },
+    {
+      "beta": 0.3,
+      "gamma": 0.1,
+      "epsilon": 0.7,
+      "success rate": 0.71984,
+      "success rate std": 0.44889933660008896
+    },
+    {
+      "beta": 0.4,
+      "gamma": 0.1,
+      "epsilon": 0.7,
+      "success rate": 0.7996800000000001,
+      "success rate std": 0.3998415406132784
+    },
+    {
+      "beta": 0.5,
+      "gamma": 0.1,
+      "epsilon": 0.7,
+      "success rate": 0.7582,
+      "success rate std": 0.4261125672870961
+    },
+    {
+      "beta": 0.6,
+      "gamma": 0.1,
+      "epsilon": 0.7,
+      "success rate": 0.75988,
+      "success rate std": 0.4270160952470059
+    },
+    {
+      "beta": 0.7,
+      "gamma": 0.1,
+      "epsilon": 0.7,
+      "success rate": 0.6380800000000001,
+      "success rate std": 0.47862853404284206
+    },
+    {
+      "beta": 0.8,
+      "gamma": 0.1,
+      "epsilon": 0.7,
+      "success rate": 0.9186799999999999,
+      "success rate std": 0.27093537532038886
+    },
+    {
+      "beta": 0.9,
+      "gamma": 0.1,
+      "epsilon": 0.7,
+      "success rate": 0.7164400000000001,
+      "success rate std": 0.4468424402404051
+    },
+    {
+      "beta": 1.0,
+      "gamma": 0.1,
+      "epsilon": 0.7,
+      "success rate": 0.8370799999999999,
+      "success rate std": 0.36536961231060255
+    },
+    {
+      "beta": 0.1,
+      "gamma": 0.2,
+      "epsilon": 0.7,
+      "success rate": 0.9598,
+      "success rate std": 0.1959199836668021
+    },
+    {
+      "beta": 0.2,
+      "gamma": 0.2,
+      "epsilon": 0.7,
+      "success rate": 0.79956,
+      "success rate std": 0.3997820486214958
+    },
+    {
+      "beta": 0.3,
+      "gamma": 0.2,
+      "epsilon": 0.7,
+      "success rate": 0.75928,
+      "success rate std": 0.42668203805644317
+    },
+    {
+      "beta": 0.4,
+      "gamma": 0.2,
+      "epsilon": 0.7,
+      "success rate": 0.75928,
+      "success rate std": 0.426689818955175
+    },
+    {
+      "beta": 0.5,
+      "gamma": 0.2,
+      "epsilon": 0.7,
+      "success rate": 0.8776,
+      "success rate std": 0.3241618114460739
+    },
+    {
+      "beta": 0.6,
+      "gamma": 0.2,
+      "epsilon": 0.7,
+      "success rate": 0.75932,
+      "success rate std": 0.4267066177129199
+    },
+    {
+      "beta": 0.7,
+      "gamma": 0.2,
+      "epsilon": 0.7,
+      "success rate": 0.79944,
+      "success rate std": 0.3997229120278196
+    },
+    {
+      "beta": 0.8,
+      "gamma": 0.2,
+      "epsilon": 0.7,
+      "success rate": 0.8333600000000001,
+      "success rate std": 0.3642139898466285
+    },
+    {
+      "beta": 0.9,
+      "gamma": 0.2,
+      "epsilon": 0.7,
+      "success rate": 0.75928,
+      "success rate std": 0.4266834442534653
+    },
+    {
+      "beta": 1.0,
+      "gamma": 0.2,
+      "epsilon": 0.7,
+      "success rate": 0.6768,
+      "success rate std": 0.4643475422568747
+    },
+    {
+      "beta": 0.1,
+      "gamma": 0.3,
+      "epsilon": 0.7,
+      "success rate": 0.8398400000000001,
+      "success rate std": 0.36653672994667263
+    },
+    {
+      "beta": 0.2,
+      "gamma": 0.3,
+      "epsilon": 0.7,
+      "success rate": 0.8394800000000001,
+      "success rate std": 0.36638036191914
+    },
+    {
+      "beta": 0.3,
+      "gamma": 0.3,
+      "epsilon": 0.7,
+      "success rate": 0.9196000000000001,
+      "success rate std": 0.27117817021286944
+    },
+    {
+      "beta": 0.4,
+      "gamma": 0.3,
+      "epsilon": 0.7,
+      "success rate": 0.71744,
+      "success rate std": 0.44746987205844374
+    },
+    {
+      "beta": 0.5,
+      "gamma": 0.3,
+      "epsilon": 0.7,
+      "success rate": 0.67932,
+      "success rate std": 0.4660122504827529
+    },
+    {
+      "beta": 0.6,
+      "gamma": 0.3,
+      "epsilon": 0.7,
+      "success rate": 0.8392400000000001,
+      "success rate std": 0.3662821076711228
+    },
+    {
+      "beta": 0.7,
+      "gamma": 0.3,
+      "epsilon": 0.7,
+      "success rate": 0.83524,
+      "success rate std": 0.3648449840685767
+    },
+    {
+      "beta": 0.8,
+      "gamma": 0.3,
+      "epsilon": 0.7,
+      "success rate": 0.7158000000000001,
+      "success rate std": 0.4465259678898866
+    },
+    {
+      "beta": 0.9,
+      "gamma": 0.3,
+      "epsilon": 0.7,
+      "success rate": 0.91908,
+      "success rate std": 0.27102589101412433
+    },
+    {
+      "beta": 1.0,
+      "gamma": 0.3,
+      "epsilon": 0.7,
+      "success rate": 0.83152,
+      "success rate std": 0.36345675065955235
+    },
+    {
+      "beta": 0.1,
+      "gamma": 0.4,
+      "epsilon": 0.7,
+      "success rate": 0.71956,
+      "success rate std": 0.4487274522469068
+    },
+    {
+      "beta": 0.2,
+      "gamma": 0.4,
+      "epsilon": 0.7,
+      "success rate": 0.7996000000000001,
+      "success rate std": 0.39980135067305617
+    },
+    {
+      "beta": 0.3,
+      "gamma": 0.4,
+      "epsilon": 0.7,
+      "success rate": 0.9181200000000002,
+      "success rate std": 0.27076385578581197
+    },
+    {
+      "beta": 0.4,
+      "gamma": 0.4,
+      "epsilon": 0.7,
+      "success rate": 0.75952,
+      "success rate std": 0.42681481886176353
+    },
+    {
+      "beta": 0.5,
+      "gamma": 0.4,
+      "epsilon": 0.7,
+      "success rate": 0.7582,
+      "success rate std": 0.4260921965959949
+    },
+    {
+      "beta": 0.6,
+      "gamma": 0.4,
+      "epsilon": 0.7,
+      "success rate": 0.71904,
+      "success rate std": 0.4484061087897889
+    },
+    {
+      "beta": 0.7,
+      "gamma": 0.4,
+      "epsilon": 0.7,
+      "success rate": 0.87776,
+      "success rate std": 0.3241802313528695
+    },
+    {
+      "beta": 0.8,
+      "gamma": 0.4,
+      "epsilon": 0.7,
+      "success rate": 0.71384,
+      "success rate std": 0.44560024057444136
+    },
+    {
+      "beta": 0.9,
+      "gamma": 0.4,
+      "epsilon": 0.7,
+      "success rate": 0.8365600000000001,
+      "success rate std": 0.3651672581160584
+    },
+    {
+      "beta": 1.0,
+      "gamma": 0.4,
+      "epsilon": 0.7,
+      "success rate": 0.63784,
+      "success rate std": 0.47839771571361
+    },
+    {
+      "beta": 0.1,
+      "gamma": 0.5,
+      "epsilon": 0.7,
+      "success rate": 0.91892,
+      "success rate std": 0.2709869251458454
+    },
+    {
+      "beta": 0.2,
+      "gamma": 0.5,
+      "epsilon": 0.7,
+      "success rate": 0.8789199999999999,
+      "success rate std": 0.32456924315159624
+    },
+    {
+      "beta": 0.3,
+      "gamma": 0.5,
+      "epsilon": 0.7,
+      "success rate": 0.6784,
+      "success rate std": 0.4653944563485904
+    },
+    {
+      "beta": 0.4,
+      "gamma": 0.5,
+      "epsilon": 0.7,
+      "success rate": 0.8393599999999999,
+      "success rate std": 0.3663295652824107
+    },
+    {
+      "beta": 0.5,
+      "gamma": 0.5,
+      "epsilon": 0.7,
+      "success rate": 0.8394400000000001,
+      "success rate std": 0.3663646358479486
+    },
+    {
+      "beta": 0.6,
+      "gamma": 0.5,
+      "epsilon": 0.7,
+      "success rate": 0.91888,
+      "success rate std": 0.2709714848466532
+    },
+    {
+      "beta": 0.7,
+      "gamma": 0.5,
+      "epsilon": 0.7,
+      "success rate": 0.7585200000000001,
+      "success rate std": 0.42626349785080114
+    },
+    {
+      "beta": 0.8,
+      "gamma": 0.5,
+      "epsilon": 0.7,
+      "success rate": 0.91636,
+      "success rate std": 0.2704683168136335
+    },
+    {
+      "beta": 0.9,
+      "gamma": 0.5,
+      "epsilon": 0.7,
+      "success rate": 0.5969599999999999,
+      "success rate std": 0.487456950304332
+    },
+    {
+      "beta": 1.0,
+      "gamma": 0.5,
+      "epsilon": 0.7,
+      "success rate": 0.7527200000000001,
+      "success rate std": 0.4232869022306266
+    },
+    {
+      "beta": 0.1,
+      "gamma": 0.6,
+      "epsilon": 0.7,
+      "success rate": 0.8390000000000001,
+      "success rate std": 0.3661760232456516
+    },
+    {
+      "beta": 0.2,
+      "gamma": 0.6,
+      "epsilon": 0.7,
+      "success rate": 0.91836,
+      "success rate std": 0.27082701194674064
+    },
+    {
+      "beta": 0.3,
+      "gamma": 0.6,
+      "epsilon": 0.7,
+      "success rate": 0.75956,
+      "success rate std": 0.42683683814778683
+    },
+    {
+      "beta": 0.4,
+      "gamma": 0.6,
+      "epsilon": 0.7,
+      "success rate": 0.95652,
+      "success rate std": 0.1954318541077682
+    },
+    {
+      "beta": 0.5,
+      "gamma": 0.6,
+      "epsilon": 0.7,
+      "success rate": 0.63656,
+      "success rate std": 0.47746129309086405
+    },
+    {
+      "beta": 0.6,
+      "gamma": 0.6,
+      "epsilon": 0.7,
+      "success rate": 0.7964399999999999,
+      "success rate std": 0.3982988907842953
+    },
+    {
+      "beta": 0.7,
+      "gamma": 0.6,
+      "epsilon": 0.7,
+      "success rate": 0.9185599999999999,
+      "success rate std": 0.27088301238726653
+    },
+    {
+      "beta": 0.8,
+      "gamma": 0.6,
+      "epsilon": 0.7,
+      "success rate": 0.8276399999999999,
+      "success rate std": 0.36238486502612105
+    },
+    {
+      "beta": 0.9,
+      "gamma": 0.6,
+      "epsilon": 0.7,
+      "success rate": 0.71652,
+      "success rate std": 0.44687869673995423
+    },
+    {
+      "beta": 1.0,
+      "gamma": 0.6,
+      "epsilon": 0.7,
+      "success rate": 0.78844,
+      "success rate std": 0.39598697756365675
+    },
+    {
+      "beta": 0.1,
+      "gamma": 0.7,
+      "epsilon": 0.7,
+      "success rate": 0.8388800000000001,
+      "success rate std": 0.36612383915828267
+    },
+    {
+      "beta": 0.2,
+      "gamma": 0.7,
+      "epsilon": 0.7,
+      "success rate": 0.91584,
+      "success rate std": 0.27027507173248516
+    },
+    {
+      "beta": 0.3,
+      "gamma": 0.7,
+      "epsilon": 0.7,
+      "success rate": 0.91884,
+      "success rate std": 0.2709634189332575
+    },
+    {
+      "beta": 0.4,
+      "gamma": 0.7,
+      "epsilon": 0.7,
+      "success rate": 0.9153200000000001,
+      "success rate std": 0.2700300309224883
+    },
+    {
+      "beta": 0.5,
+      "gamma": 0.7,
+      "epsilon": 0.7,
+      "success rate": 0.7980799999999999,
+      "success rate std": 0.3990610900601561
+    },
+    {
+      "beta": 0.6,
+      "gamma": 0.7,
+      "epsilon": 0.7,
+      "success rate": 0.87676,
+      "success rate std": 0.32392669294147397
+    },
+    {
+      "beta": 0.7,
+      "gamma": 0.7,
+      "epsilon": 0.7,
+      "success rate": 0.9138000000000001,
+      "success rate std": 0.27023752515148597
+    },
+    {
+      "beta": 0.8,
+      "gamma": 0.7,
+      "epsilon": 0.7,
+      "success rate": 0.7955199999999999,
+      "success rate std": 0.3978648132217776
+    },
+    {
+      "beta": 0.9,
+      "gamma": 0.7,
+      "epsilon": 0.7,
+      "success rate": 0.7090000000000001,
+      "success rate std": 0.44320496387111913
+    },
+    {
+      "beta": 1.0,
+      "gamma": 0.7,
+      "epsilon": 0.7,
+      "success rate": 0.8658800000000001,
+      "success rate std": 0.321640211416421
+    },
+    {
+      "beta": 0.1,
+      "gamma": 0.8,
+      "epsilon": 0.7,
+      "success rate": 0.91648,
+      "success rate std": 0.2704059348461124
+    },
+    {
+      "beta": 0.2,
+      "gamma": 0.8,
+      "epsilon": 0.7,
+      "success rate": 0.9523199999999999,
+      "success rate std": 0.1948056919086298
+    },
+    {
+      "beta": 0.3,
+      "gamma": 0.8,
+      "epsilon": 0.7,
+      "success rate": 0.95664,
+      "success rate std": 0.1953562653205676
+    },
+    {
+      "beta": 0.4,
+      "gamma": 0.8,
+      "epsilon": 0.7,
+      "success rate": 0.8307599999999999,
+      "success rate std": 0.36329517255256777
+    },
+    {
+      "beta": 0.5,
+      "gamma": 0.8,
+      "epsilon": 0.7,
+      "success rate": 0.7979600000000001,
+      "success rate std": 0.3990100229317554
+    },
+    {
+      "beta": 0.6,
+      "gamma": 0.8,
+      "epsilon": 0.7,
+      "success rate": 0.7566399999999999,
+      "success rate std": 0.42526489438936765
+    },
+    {
+      "beta": 0.7,
+      "gamma": 0.8,
+      "epsilon": 0.7,
+      "success rate": 0.83196,
+      "success rate std": 0.3633604799644562
+    },
+    {
+      "beta": 0.8,
+      "gamma": 0.8,
+      "epsilon": 0.7,
+      "success rate": 0.9055599999999999,
+      "success rate std": 0.2678214449964752
+    },
+    {
+      "beta": 0.9,
+      "gamma": 0.8,
+      "epsilon": 0.7,
+      "success rate": 0.78976,
+      "success rate std": 0.3952834203454529
+    },
+    {
+      "beta": 1.0,
+      "gamma": 0.8,
+      "epsilon": 0.7,
+      "success rate": 0.7555200000000001,
+      "success rate std": 0.42466703380413223
+    },
+    {
+      "beta": 0.1,
+      "gamma": 0.9,
+      "epsilon": 0.7,
+      "success rate": 0.7897200000000001,
+      "success rate std": 0.3952821291179251
+    },
+    {
+      "beta": 0.2,
+      "gamma": 0.9,
+      "epsilon": 0.7,
+      "success rate": 0.7903199999999999,
+      "success rate std": 0.39534660438658126
+    },
+    {
+      "beta": 0.3,
+      "gamma": 0.9,
+      "epsilon": 0.7,
+      "success rate": 0.83,
+      "success rate std": 0.3624353183672916
+    },
+    {
+      "beta": 0.4,
+      "gamma": 0.9,
+      "epsilon": 0.7,
+      "success rate": 0.7886799999999999,
+      "success rate std": 0.39463093847289776
+    },
+    {
+      "beta": 0.5,
+      "gamma": 0.9,
+      "epsilon": 0.7,
+      "success rate": 0.90348,
+      "success rate std": 0.26792926230630354
+    },
+    {
+      "beta": 0.6,
+      "gamma": 0.9,
+      "epsilon": 0.7,
+      "success rate": 0.7808799999999999,
+      "success rate std": 0.3945896420333408
+    },
+    {
+      "beta": 0.7,
+      "gamma": 0.9,
+      "epsilon": 0.7,
+      "success rate": 0.7831999999999999,
+      "success rate std": 0.39263173585434985
+    },
+    {
+      "beta": 0.8,
+      "gamma": 0.9,
+      "epsilon": 0.7,
+      "success rate": 0.7114,
+      "success rate std": 0.4441388971932091
+    },
+    {
+      "beta": 0.9,
+      "gamma": 0.9,
+      "epsilon": 0.7,
+      "success rate": 0.7831999999999999,
+      "success rate std": 0.39280621176351066
+    },
+    {
+      "beta": 1.0,
+      "gamma": 0.9,
+      "epsilon": 0.7,
+      "success rate": 0.7164800000000001,
+      "success rate std": 0.4468394897499548
+    },
+    {
+      "beta": 0.1,
+      "gamma": 1.0,
+      "epsilon": 0.7,
+      "success rate": 0.6853999999999999,
+      "success rate std": 0.38764932606674296
+    },
+    {
+      "beta": 0.2,
+      "gamma": 1.0,
+      "epsilon": 0.7,
+      "success rate": 0.7856399999999999,
+      "success rate std": 0.25016936343205576
+    },
+    {
+      "beta": 0.3,
+      "gamma": 1.0,
+      "epsilon": 0.7,
+      "success rate": 0.7273999999999999,
+      "success rate std": 0.23593727980122176
+    },
+    {
+      "beta": 0.4,
+      "gamma": 1.0,
+      "epsilon": 0.7,
+      "success rate": 0.55648,
+      "success rate std": 0.3323408033931434
+    },
+    {
+      "beta": 0.5,
+      "gamma": 1.0,
+      "epsilon": 0.7,
+      "success rate": 0.4998,
+      "success rate std": 0.3412732629433487
+    },
+    {
+      "beta": 0.6,
+      "gamma": 1.0,
+      "epsilon": 0.7,
+      "success rate": 0.43244,
+      "success rate std": 0.3429552833825424
+    },
+    {
+      "beta": 0.7,
+      "gamma": 1.0,
+      "epsilon": 0.7,
+      "success rate": 0.38911999999999997,
+      "success rate std": 0.3432642503961052
+    },
+    {
+      "beta": 0.8,
+      "gamma": 1.0,
+      "epsilon": 0.7,
+      "success rate": 0.3696,
+      "success rate std": 0.2869707999082834
+    },
+    {
+      "beta": 0.9,
+      "gamma": 1.0,
+      "epsilon": 0.7,
+      "success rate": 0.26532,
+      "success rate std": 0.32783516833921283
+    },
+    {
+      "beta": 1.0,
+      "gamma": 1.0,
+      "epsilon": 0.7,
+      "success rate": 0.0,
+      "success rate std": 0.0
+    }
+  ]
+}

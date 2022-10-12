@@ -1,0 +1,2352 @@
+4 0
+63.2 µs ± 289 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+68.6 µs ± 1.71 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+67.2 µs ± 877 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+4 1
+63.7 µs ± 119 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+67.1 µs ± 1.44 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+70.8 µs ± 83.9 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+4 2
+63.4 µs ± 271 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+66.5 µs ± 1.3 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+68 µs ± 1.11 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+4 3
+63.5 µs ± 351 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+69.3 µs ± 57.4 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+69.5 µs ± 1.8 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+4 4
+62.8 µs ± 73.9 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+69.9 µs ± 511 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+69.8 µs ± 51.3 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+4 5
+63.1 µs ± 216 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+66.6 µs ± 851 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+69.1 µs ± 1.57 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+4 6
+63.9 µs ± 105 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+68.6 µs ± 1.93 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+67.5 µs ± 1.04 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+4 7
+63.8 µs ± 381 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+70 µs ± 392 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+71.5 µs ± 3.06 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+4 8
+63.6 µs ± 132 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+69.8 µs ± 170 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+67.3 µs ± 762 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+4 9
+62.9 µs ± 169 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+68.5 µs ± 1.64 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+68 µs ± 1.49 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+4 10
+63.5 µs ± 254 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+69.4 µs ± 512 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+68.8 µs ± 1.88 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+4 11
+63.5 µs ± 90.6 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+66.6 µs ± 499 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+67.8 µs ± 1.66 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+4 12
+64 µs ± 240 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+69.9 µs ± 241 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+72.6 µs ± 942 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+4 13
+64 µs ± 172 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+71.8 µs ± 1.67 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+70.1 µs ± 4.46 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+4 14
+64 µs ± 145 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+69.6 µs ± 1.67 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+69.7 µs ± 2.13 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+4 15
+63.7 µs ± 265 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+69.3 µs ± 2.68 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+66.8 µs ± 425 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+4 16
+63.4 µs ± 167 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+66.5 µs ± 1.53 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+70.4 µs ± 408 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+4 17
+63.8 µs ± 440 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+70.9 µs ± 2.37 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+67.2 µs ± 426 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+4 18
+63.3 µs ± 194 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+74.6 µs ± 2.11 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+71.8 µs ± 1.72 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+4 19
+67.1 µs ± 1.15 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+69.1 µs ± 1.74 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+72.8 µs ± 541 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+4 20
+64.3 µs ± 205 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+68 µs ± 1.18 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+68.2 µs ± 1.06 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+4 21
+63.5 µs ± 1.31 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+68.2 µs ± 1.02 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+69.9 µs ± 1.25 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+4 22
+64.1 µs ± 48.7 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+67.6 µs ± 1.12 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+72.8 µs ± 2.04 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+4 23
+67.2 µs ± 2.1 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+71.9 µs ± 1.8 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+69.4 µs ± 555 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+4 24
+65 µs ± 301 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+68.2 µs ± 402 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+68.9 µs ± 313 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+4 25
+65.3 µs ± 1.03 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+69 µs ± 1.93 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+69 µs ± 2.1 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+4 26
+66.8 µs ± 1.58 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+68.9 µs ± 1.09 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+69.4 µs ± 487 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+4 27
+64.8 µs ± 167 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+68.7 µs ± 701 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+70.9 µs ± 728 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+5 0
+131 µs ± 971 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+138 µs ± 7.6 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+142 µs ± 1.36 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+5 1
+137 µs ± 4.76 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+134 µs ± 927 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+132 µs ± 2.24 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+5 2
+128 µs ± 495 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+133 µs ± 2.15 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+134 µs ± 1.4 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+5 3
+130 µs ± 752 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+131 µs ± 517 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+133 µs ± 195 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+5 4
+130 µs ± 243 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+132 µs ± 780 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+133 µs ± 491 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+5 5
+130 µs ± 47.1 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+137 µs ± 4.8 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+135 µs ± 2.5 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+5 6
+128 µs ± 636 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+131 µs ± 961 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+132 µs ± 537 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+5 7
+130 µs ± 1.05 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+133 µs ± 1.86 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+133 µs ± 1.12 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+5 8
+130 µs ± 348 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+132 µs ± 980 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+135 µs ± 745 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+5 9
+131 µs ± 573 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+137 µs ± 3.23 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+136 µs ± 2 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+5 10
+131 µs ± 1.87 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+139 µs ± 2.37 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+135 µs ± 2.27 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+5 11
+131 µs ± 1.31 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+135 µs ± 4.87 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+135 µs ± 1.75 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+5 12
+131 µs ± 419 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+132 µs ± 1.03 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+134 µs ± 1.92 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+5 13
+129 µs ± 338 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+133 µs ± 2.36 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+134 µs ± 2.39 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+5 14
+130 µs ± 757 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+139 µs ± 5.16 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+140 µs ± 5.46 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+5 15
+138 µs ± 8.61 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+140 µs ± 4.2 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+140 µs ± 902 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+5 16
+132 µs ± 2.37 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+139 µs ± 1.16 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+133 µs ± 1.43 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+5 17
+131 µs ± 2.42 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+133 µs ± 608 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+134 µs ± 654 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+5 18
+132 µs ± 678 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+134 µs ± 1.84 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+134 µs ± 1.92 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+5 19
+134 µs ± 3.7 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+135 µs ± 1.45 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+137 µs ± 2.71 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+5 20
+133 µs ± 175 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+135 µs ± 1.67 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+136 µs ± 4.03 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+5 21
+134 µs ± 599 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+139 µs ± 2.99 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+137 µs ± 298 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+5 22
+131 µs ± 1.12 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+135 µs ± 2.28 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+136 µs ± 3.7 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+5 23
+131 µs ± 411 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+133 µs ± 433 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+134 µs ± 2.61 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+5 24
+130 µs ± 1.02 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+132 µs ± 714 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+133 µs ± 107 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+5 25
+136 µs ± 1.64 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+134 µs ± 2.23 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+132 µs ± 396 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+5 26
+130 µs ± 456 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+132 µs ± 1.71 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+131 µs ± 1.51 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+5 27
+130 µs ± 201 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+133 µs ± 1.88 µs per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+132 µs ± 742 ns per loop (mean ± std. dev. of 3 runs, 10000 loops each)
+6 0
+279 µs ± 5.07 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+285 µs ± 584 ns per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+286 µs ± 404 ns per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+6 1
+278 µs ± 1.15 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+285 µs ± 498 ns per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+287 µs ± 1.78 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+6 2
+276 µs ± 830 ns per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+286 µs ± 1.5 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+285 µs ± 531 ns per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+6 3
+284 µs ± 4.09 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+296 µs ± 6.03 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+287 µs ± 394 ns per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+6 4
+280 µs ± 3.5 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+282 µs ± 251 ns per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+298 µs ± 14.8 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+6 5
+302 µs ± 28.3 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+291 µs ± 1.74 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+296 µs ± 7.75 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+6 6
+286 µs ± 1.74 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+295 µs ± 5.85 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+299 µs ± 12.3 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+6 7
+287 µs ± 3.54 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+303 µs ± 13.2 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+287 µs ± 1.8 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+6 8
+280 µs ± 1.66 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+284 µs ± 4.2 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+292 µs ± 3.65 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+6 9
+282 µs ± 1.42 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+284 µs ± 1.02 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+293 µs ± 6.03 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+6 10
+278 µs ± 826 ns per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+293 µs ± 2.74 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+307 µs ± 6.5 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+6 11
+281 µs ± 3.43 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+285 µs ± 80.2 ns per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+288 µs ± 4.69 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+6 12
+285 µs ± 4.02 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+284 µs ± 3.49 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+283 µs ± 2.71 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+6 13
+277 µs ± 2.67 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+284 µs ± 963 ns per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+284 µs ± 391 ns per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+6 14
+277 µs ± 781 ns per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+285 µs ± 1.85 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+284 µs ± 394 ns per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+6 15
+279 µs ± 3.65 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+286 µs ± 286 ns per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+287 µs ± 2.86 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+6 16
+279 µs ± 7.55 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+283 µs ± 1.9 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+287 µs ± 1.43 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+6 17
+280 µs ± 3.31 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+289 µs ± 3.88 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+284 µs ± 1.36 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+6 18
+275 µs ± 886 ns per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+292 µs ± 3.66 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+288 µs ± 6.15 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+6 19
+302 µs ± 11.9 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+295 µs ± 12 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+293 µs ± 5.31 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+6 20
+280 µs ± 2.58 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+285 µs ± 1.22 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+287 µs ± 1.51 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+6 21
+283 µs ± 4.55 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+292 µs ± 12.3 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+295 µs ± 10 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+6 22
+276 µs ± 1.18 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+293 µs ± 7.68 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+304 µs ± 11.5 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+6 23
+299 µs ± 15.4 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+298 µs ± 12.4 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+288 µs ± 5.42 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+6 24
+290 µs ± 6.42 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+285 µs ± 3.2 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+285 µs ± 2.02 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+6 25
+278 µs ± 1.83 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+286 µs ± 776 ns per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+285 µs ± 1.63 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+6 26
+281 µs ± 1.85 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+284 µs ± 3.21 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+285 µs ± 2.64 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+6 27
+274 µs ± 1.41 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+284 µs ± 1.18 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+288 µs ± 1.26 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+7 0
+599 µs ± 2.68 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+601 µs ± 2.06 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+630 µs ± 19 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+7 1
+633 µs ± 33 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+626 µs ± 9.24 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+619 µs ± 20.2 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+7 2
+595 µs ± 4.29 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+593 µs ± 4.51 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+597 µs ± 2.69 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+7 3
+615 µs ± 24.3 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+601 µs ± 7.89 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+602 µs ± 1.62 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+7 4
+626 µs ± 14.2 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+620 µs ± 12.1 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+618 µs ± 7.19 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+7 5
+628 µs ± 24.4 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+615 µs ± 16.2 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+627 µs ± 4.36 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+7 6
+614 µs ± 3.88 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+600 µs ± 6.94 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+595 µs ± 1.14 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+7 7
+602 µs ± 2.65 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+621 µs ± 14 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+614 µs ± 4.14 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+7 8
+599 µs ± 1.48 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+611 µs ± 2.14 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+613 µs ± 3.32 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+7 9
+597 µs ± 1.76 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+619 µs ± 14.5 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+615 µs ± 2.61 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+7 10
+597 µs ± 3.44 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+619 µs ± 19.8 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+629 µs ± 11.8 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+7 11
+611 µs ± 2.84 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+632 µs ± 24.7 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+617 µs ± 4.93 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+7 12
+600 µs ± 3.72 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+600 µs ± 5.44 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+617 µs ± 754 ns per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+7 13
+632 µs ± 41.9 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+612 µs ± 4.36 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+630 µs ± 4.95 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+7 14
+600 µs ± 4.31 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+603 µs ± 3.81 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+611 µs ± 874 ns per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+7 15
+597 µs ± 3.71 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+606 µs ± 4.42 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+614 µs ± 5.78 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+7 16
+598 µs ± 6.71 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+606 µs ± 6.19 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+652 µs ± 34.3 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+7 17
+625 µs ± 14.5 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+655 µs ± 25.2 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+618 µs ± 4.82 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+7 18
+651 µs ± 21.1 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+611 µs ± 11.4 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+610 µs ± 4.68 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+7 19
+614 µs ± 14 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+600 µs ± 15 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+606 µs ± 1.04 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+7 20
+593 µs ± 4.94 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+608 µs ± 2.27 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+602 µs ± 5.13 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+7 21
+600 µs ± 10 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+607 µs ± 1.08 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+643 µs ± 15.9 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+7 22
+629 µs ± 27.7 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+588 µs ± 7.58 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+599 µs ± 3.96 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+7 23
+593 µs ± 5.76 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+600 µs ± 5.09 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+610 µs ± 1.01 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+7 24
+590 µs ± 5.27 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+613 µs ± 3.84 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+602 µs ± 6.33 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+7 25
+591 µs ± 1.71 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+611 µs ± 1.7 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+604 µs ± 1.17 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+7 26
+591 µs ± 4.76 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+603 µs ± 2.07 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+611 µs ± 1.89 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+7 27
+589 µs ± 1.15 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+601 µs ± 1.23 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+608 µs ± 741 ns per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+8 0
+1.31 ms ± 4.71 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.26 ms ± 4.05 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.3 ms ± 13 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+8 1
+1.29 ms ± 4.35 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.29 ms ± 12.6 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.3 ms ± 2.03 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+8 2
+1.29 ms ± 6.66 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.31 ms ± 8.83 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.33 ms ± 18.1 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+8 3
+1.36 ms ± 17.9 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.36 ms ± 25.9 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.37 ms ± 27.9 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+8 4
+1.32 ms ± 4.14 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.33 ms ± 14.1 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.32 ms ± 7.23 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+8 5
+1.33 ms ± 8.45 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.28 ms ± 4.4 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.31 ms ± 8.32 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+8 6
+1.31 ms ± 17.8 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.31 ms ± 31.3 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.34 ms ± 28.5 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+8 7
+1.33 ms ± 21.1 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.32 ms ± 11 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.3 ms ± 1.85 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+8 8
+1.28 ms ± 5.19 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.31 ms ± 22.2 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.35 ms ± 36.4 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+8 9
+1.28 ms ± 5.93 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.31 ms ± 39.6 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.33 ms ± 21 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+8 10
+1.42 ms ± 17.8 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.48 ms ± 21.8 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.45 ms ± 18.3 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+8 11
+1.41 ms ± 5.44 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.38 ms ± 11.3 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.41 ms ± 15.5 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+8 12
+1.39 ms ± 6.54 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.42 ms ± 39.1 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.4 ms ± 31.9 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+8 13
+1.44 ms ± 67.7 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.43 ms ± 28.7 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.3 ms ± 45.1 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+8 14
+1.28 ms ± 18.5 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.38 ms ± 42.3 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.48 ms ± 110 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+8 15
+1.36 ms ± 24.3 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.43 ms ± 22.5 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.33 ms ± 10.4 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+8 16
+1.35 ms ± 20.1 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.32 ms ± 9.45 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.33 ms ± 21.7 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+8 17
+1.35 ms ± 30.4 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.32 ms ± 17.2 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.35 ms ± 24.8 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+8 18
+1.33 ms ± 24.6 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.29 ms ± 17.9 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.3 ms ± 4.85 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+8 19
+1.3 ms ± 3.1 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.31 ms ± 9.2 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.32 ms ± 4.6 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+8 20
+1.37 ms ± 46.5 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.28 ms ± 35 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.36 ms ± 3.39 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+8 21
+1.37 ms ± 3.1 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.28 ms ± 5.36 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.3 ms ± 15.7 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+8 22
+1.32 ms ± 55.1 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.29 ms ± 16.6 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.33 ms ± 32.1 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+8 23
+1.33 ms ± 10.9 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.3 ms ± 9.5 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.32 ms ± 6.17 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+8 24
+1.35 ms ± 13.9 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.27 ms ± 6.16 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.38 ms ± 17.5 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+8 25
+1.33 ms ± 16.8 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.3 ms ± 17.8 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.33 ms ± 15.2 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+8 26
+1.31 ms ± 20 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.27 ms ± 7.49 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.32 ms ± 880 ns per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+8 27
+1.38 ms ± 28 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.35 ms ± 21.6 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+1.4 ms ± 36.8 µs per loop (mean ± std. dev. of 3 runs, 1000 loops each)
+9 0
+2.76 ms ± 7.1 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.82 ms ± 16.8 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.8 ms ± 50.8 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+9 1
+2.79 ms ± 18.1 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.77 ms ± 10.8 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.78 ms ± 14 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+9 2
+2.77 ms ± 8.17 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.7 ms ± 15.9 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.87 ms ± 2.62 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+9 3
+2.82 ms ± 14.9 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.68 ms ± 7.65 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.82 ms ± 9.66 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+9 4
+2.84 ms ± 11.7 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.67 ms ± 16.8 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.79 ms ± 17.8 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+9 5
+2.81 ms ± 21.8 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.76 ms ± 14.9 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.77 ms ± 7.84 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+9 6
+2.77 ms ± 27 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.71 ms ± 30.2 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.85 ms ± 31.5 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+9 7
+2.82 ms ± 23.7 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.79 ms ± 19.2 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.8 ms ± 32.1 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+9 8
+2.76 ms ± 13.1 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.65 ms ± 14.7 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.86 ms ± 19.1 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+9 9
+2.72 ms ± 18.1 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.74 ms ± 22.4 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.88 ms ± 27.3 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+9 10
+2.8 ms ± 11.8 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.8 ms ± 4.64 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.81 ms ± 39.7 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+9 11
+2.74 ms ± 31.6 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.83 ms ± 117 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.93 ms ± 97.4 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+9 12
+2.91 ms ± 11.2 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.65 ms ± 47.1 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.79 ms ± 14.6 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+9 13
+2.78 ms ± 13.5 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.83 ms ± 29.9 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.87 ms ± 18.2 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+9 14
+2.8 ms ± 9.62 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.81 ms ± 35.5 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.82 ms ± 20.2 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+9 15
+2.81 ms ± 13 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.75 ms ± 13.1 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.81 ms ± 6.35 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+9 16
+2.85 ms ± 18.6 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.76 ms ± 8.08 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.8 ms ± 8.79 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+9 17
+2.79 ms ± 8.4 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.78 ms ± 3.62 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.85 ms ± 17.7 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+9 18
+2.76 ms ± 13.1 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.8 ms ± 32.1 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.84 ms ± 24.5 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+9 19
+2.77 ms ± 13.9 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.72 ms ± 10.5 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.79 ms ± 29.9 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+9 20
+2.78 ms ± 17.8 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.78 ms ± 13.8 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.84 ms ± 13.5 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+9 21
+2.88 ms ± 3.68 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.75 ms ± 12.6 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.77 ms ± 4.5 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+9 22
+2.78 ms ± 16.7 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.81 ms ± 7.25 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.81 ms ± 11.2 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+9 23
+2.79 ms ± 16.3 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.71 ms ± 8.1 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.81 ms ± 12 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+9 24
+2.79 ms ± 50.3 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.71 ms ± 8.96 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.78 ms ± 8.54 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+9 25
+2.84 ms ± 17.2 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.67 ms ± 20.7 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.79 ms ± 5.65 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+9 26
+2.82 ms ± 15.9 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.57 ms ± 17.4 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.8 ms ± 27.5 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+9 27
+2.81 ms ± 18.8 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.85 ms ± 67.7 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+2.83 ms ± 11.3 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+10 0
+5.97 ms ± 42 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+5.43 ms ± 32.5 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+5.85 ms ± 69.1 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+10 1
+5.98 ms ± 30.8 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+5.59 ms ± 28.9 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+5.96 ms ± 36.2 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+10 2
+5.93 ms ± 6.97 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+5.49 ms ± 47.6 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+5.93 ms ± 42.1 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+10 3
+5.92 ms ± 24.2 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+5.57 ms ± 13 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+6.04 ms ± 38.2 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+10 4
+5.86 ms ± 19.6 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+5.59 ms ± 2.04 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+6 ms ± 33.8 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+10 5
+5.94 ms ± 15.5 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+5.43 ms ± 31.6 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+6 ms ± 13.8 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+10 6
+6.02 ms ± 37 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+5.48 ms ± 34 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+5.99 ms ± 59.5 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+10 7
+5.96 ms ± 29.2 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+5.7 ms ± 27.4 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+5.92 ms ± 30.5 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+10 8
+5.91 ms ± 56 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+5.79 ms ± 107 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+6.01 ms ± 39.3 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+10 9
+6.56 ms ± 443 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+6.01 ms ± 51.8 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+6.56 ms ± 171 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+10 10
+6.13 ms ± 63.7 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+5.72 ms ± 3.92 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+6.11 ms ± 163 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+10 11
+6.33 ms ± 451 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+5.8 ms ± 50.7 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+6.1 ms ± 75.4 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+10 12
+6.31 ms ± 300 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+5.98 ms ± 42.5 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+6.19 ms ± 87.9 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+10 13
+6.04 ms ± 39.7 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+6.03 ms ± 237 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+6.05 ms ± 176 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+10 14
+6.41 ms ± 81.6 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+5.96 ms ± 231 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+6.42 ms ± 285 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+10 15
+6.04 ms ± 139 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+5.73 ms ± 131 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+5.91 ms ± 24.5 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+10 16
+5.91 ms ± 20.2 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+5.98 ms ± 205 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+6.29 ms ± 354 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+10 17
+6.1 ms ± 44.9 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+5.42 ms ± 34 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+6.02 ms ± 23.5 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+10 18
+5.83 ms ± 16.8 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+5.75 ms ± 15.7 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+6.05 ms ± 154 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+10 19
+6.06 ms ± 108 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+5.91 ms ± 602 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+6.29 ms ± 173 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+10 20
+5.99 ms ± 78.1 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+5.7 ms ± 46.2 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+5.92 ms ± 39.3 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+10 21
+5.91 ms ± 200 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+5.79 ms ± 176 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+6.53 ms ± 578 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+10 22
+6.03 ms ± 285 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+5.86 ms ± 183 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+6.51 ms ± 264 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+10 23
+6.25 ms ± 118 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+6.2 ms ± 103 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+6.12 ms ± 296 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+10 24
+5.92 ms ± 51.6 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+5.46 ms ± 10.1 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+6.02 ms ± 177 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+10 25
+6.09 ms ± 177 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+6.05 ms ± 74.1 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+6 ms ± 107 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+10 26
+6.57 ms ± 656 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+5.94 ms ± 176 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+6.52 ms ± 166 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+10 27
+6.28 ms ± 64.7 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+6.01 ms ± 382 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+6.3 ms ± 281 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11 0
+12.6 ms ± 240 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11.4 ms ± 95.6 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+13.2 ms ± 219 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11 1
+12.8 ms ± 298 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+12.6 ms ± 185 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+12.6 ms ± 250 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11 2
+13.2 ms ± 338 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+12 ms ± 61.9 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+13.1 ms ± 224 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11 3
+13.4 ms ± 310 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+12.1 ms ± 287 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+13.2 ms ± 366 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11 4
+12.8 ms ± 85.2 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+12.5 ms ± 69.6 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+12.8 ms ± 56.3 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11 5
+12 ms ± 181 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11.4 ms ± 87 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+13 ms ± 77.3 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11 6
+13.1 ms ± 59.7 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+13.3 ms ± 507 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+13.4 ms ± 248 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11 7
+13.1 ms ± 290 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+12 ms ± 126 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+13.8 ms ± 313 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11 8
+13 ms ± 130 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+12 ms ± 282 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+12.7 ms ± 91.6 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11 9
+12.2 ms ± 60.8 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+10.9 ms ± 24 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+13 ms ± 118 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11 10
+12.3 ms ± 23.7 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11.4 ms ± 10.8 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+12.4 ms ± 97.1 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11 11
+12.5 ms ± 11.1 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11.8 ms ± 11.6 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+12.9 ms ± 286 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11 12
+12.9 ms ± 166 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11.7 ms ± 97.2 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+13 ms ± 55.4 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11 13
+11.8 ms ± 25.1 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+12.2 ms ± 156 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+13 ms ± 38.9 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11 14
+11.8 ms ± 26.7 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+12.6 ms ± 330 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+13.2 ms ± 176 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11 15
+11.4 ms ± 87.3 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+10.9 ms ± 71.4 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+13.2 ms ± 478 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11 16
+13.1 ms ± 128 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11.6 ms ± 440 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+13.4 ms ± 234 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11 17
+12.9 ms ± 772 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+12.2 ms ± 166 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+12.6 ms ± 23.6 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11 18
+12.7 ms ± 49.2 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11.9 ms ± 226 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+12.8 ms ± 108 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11 19
+13.3 ms ± 306 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+12.3 ms ± 134 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+12.7 ms ± 235 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11 20
+13.4 ms ± 319 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11.7 ms ± 58.8 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+12.7 ms ± 56.8 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11 21
+12.3 ms ± 55.6 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11.3 ms ± 74.2 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+13 ms ± 316 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11 22
+12.1 ms ± 78.9 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+12.3 ms ± 554 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+13 ms ± 454 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11 23
+12 ms ± 45.7 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+12.1 ms ± 124 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+12.9 ms ± 165 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11 24
+12.3 ms ± 435 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11.3 ms ± 58.4 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+13 ms ± 515 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11 25
+12.4 ms ± 157 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11.7 ms ± 500 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+13.5 ms ± 941 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11 26
+13.6 ms ± 318 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+12.9 ms ± 35.7 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+12.7 ms ± 117 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+11 27
+12.9 ms ± 263 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+12.2 ms ± 117 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+13.4 ms ± 294 µs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+12 0
+26.3 ms ± 172 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+25.9 ms ± 1.02 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+25.6 ms ± 119 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+12 1
+27.2 ms ± 1.15 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+23.5 ms ± 942 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+27.3 ms ± 622 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+12 2
+26.7 ms ± 1.45 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+23.9 ms ± 381 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+28.9 ms ± 582 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+12 3
+27.9 ms ± 2.15 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+25.6 ms ± 1.75 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+28.5 ms ± 861 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+12 4
+26.5 ms ± 219 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+26.9 ms ± 1.52 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+27.6 ms ± 313 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+12 5
+26.6 ms ± 640 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+23.1 ms ± 1.53 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+27.6 ms ± 408 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+12 6
+27.9 ms ± 549 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+25.3 ms ± 216 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+25.2 ms ± 141 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+12 7
+26.2 ms ± 284 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+26.4 ms ± 1.44 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+26.7 ms ± 246 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+12 8
+26 ms ± 129 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+24.2 ms ± 157 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+26.5 ms ± 245 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+12 9
+28.7 ms ± 1.19 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+25.5 ms ± 1.05 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+28.9 ms ± 1.14 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+12 10
+26.3 ms ± 1.06 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+26.6 ms ± 1.41 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+26.1 ms ± 193 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+12 11
+25.5 ms ± 102 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+24.5 ms ± 96.5 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+27 ms ± 199 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+12 12
+25.4 ms ± 142 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+24.2 ms ± 211 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+26.6 ms ± 85.2 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+12 13
+26.2 ms ± 33.5 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+24.5 ms ± 248 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+26.3 ms ± 192 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+12 14
+26 ms ± 156 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+24.7 ms ± 309 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+26.7 ms ± 5.73 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+12 15
+25.3 ms ± 95.9 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+22.7 ms ± 296 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+27.2 ms ± 405 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+12 16
+24.6 ms ± 176 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+23.9 ms ± 200 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+26.4 ms ± 204 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+12 17
+25.7 ms ± 261 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+24.2 ms ± 234 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+26.5 ms ± 48.2 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+12 18
+25.1 ms ± 109 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+23.5 ms ± 315 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+26.9 ms ± 63 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+12 19
+26.5 ms ± 264 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+23.6 ms ± 94.4 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+28.6 ms ± 988 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+12 20
+26.4 ms ± 262 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+25 ms ± 678 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+27.5 ms ± 112 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+12 21
+29.4 ms ± 5.52 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+24.4 ms ± 300 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+27.6 ms ± 100 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+12 22
+25.2 ms ± 188 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+25.4 ms ± 1.78 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+27.6 ms ± 150 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+12 23
+26.4 ms ± 613 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+24.4 ms ± 1.82 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+26.6 ms ± 207 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+12 24
+27.8 ms ± 1.31 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+25.8 ms ± 553 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+26.9 ms ± 347 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+12 25
+26.6 ms ± 112 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+23.7 ms ± 55.2 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+27 ms ± 167 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+12 26
+27.5 ms ± 372 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+23.5 ms ± 645 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+28.2 ms ± 198 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+12 27
+28.4 ms ± 379 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+24.3 ms ± 445 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+28 ms ± 1.25 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+13 0
+54.5 ms ± 759 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+50.6 ms ± 1.94 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+58.7 ms ± 994 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+13 1
+57.6 ms ± 1.12 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+49.3 ms ± 77.1 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+58.1 ms ± 646 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+13 2
+53.9 ms ± 1.24 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+48.9 ms ± 1.08 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+58.4 ms ± 685 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+13 3
+55.6 ms ± 238 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+46.5 ms ± 484 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+57.6 ms ± 88.8 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+13 4
+55.4 ms ± 269 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+49.4 ms ± 495 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+56.7 ms ± 225 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+13 5
+54.6 ms ± 309 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+51.6 ms ± 538 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+55.8 ms ± 621 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+13 6
+53.9 ms ± 162 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+51.9 ms ± 642 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+55.8 ms ± 142 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+13 7
+52.4 ms ± 373 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+51.3 ms ± 585 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+58.2 ms ± 1.84 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+13 8
+54 ms ± 375 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+51.7 ms ± 818 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+58.1 ms ± 1.52 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+13 9
+58.3 ms ± 1.74 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+51.2 ms ± 1.79 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+57.1 ms ± 1.46 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+13 10
+56.1 ms ± 872 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+48.3 ms ± 637 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+55.3 ms ± 104 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+13 11
+55.7 ms ± 564 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+46.2 ms ± 607 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+57.6 ms ± 1.39 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+13 12
+53.4 ms ± 213 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+47.1 ms ± 320 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+56.5 ms ± 357 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+13 13
+54.6 ms ± 316 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+50.2 ms ± 447 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+56 ms ± 501 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+13 14
+53.1 ms ± 156 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+50.3 ms ± 94.7 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+54.3 ms ± 472 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+13 15
+54.4 ms ± 282 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+46.5 ms ± 391 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+55.4 ms ± 338 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+13 16
+52.9 ms ± 41.7 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+49 ms ± 55.6 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+56.9 ms ± 457 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+13 17
+52.9 ms ± 423 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+47 ms ± 155 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+56.3 ms ± 302 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+13 18
+55.2 ms ± 475 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+51.2 ms ± 146 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+54.5 ms ± 148 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+13 19
+55.7 ms ± 1.66 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+45 ms ± 940 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+56 ms ± 70.2 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+13 20
+53.1 ms ± 152 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+52.1 ms ± 207 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+55.3 ms ± 562 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+13 21
+55.8 ms ± 443 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+53.2 ms ± 502 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+54.5 ms ± 541 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+13 22
+54.1 ms ± 446 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+50.7 ms ± 597 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+63.2 ms ± 2.02 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+13 23
+59.9 ms ± 308 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+49.7 ms ± 431 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+60.2 ms ± 4.04 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+13 24
+56.5 ms ± 2.47 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+52 ms ± 3.48 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+59 ms ± 2.91 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+13 25
+60.4 ms ± 1.51 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+48 ms ± 104 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+59.8 ms ± 221 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+13 26
+55 ms ± 1.06 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+53.8 ms ± 344 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+57.8 ms ± 3.57 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+13 27
+55.3 ms ± 1.68 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+51 ms ± 1.19 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+57.8 ms ± 4.44 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+14 0
+108 ms ± 2.27 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+96.1 ms ± 110 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+121 ms ± 2 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+14 1
+110 ms ± 576 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+111 ms ± 700 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+119 ms ± 1.28 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+14 2
+122 ms ± 2.25 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+101 ms ± 1.62 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+125 ms ± 974 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+14 3
+109 ms ± 225 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+98.9 ms ± 2.87 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+115 ms ± 1.4 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+14 4
+115 ms ± 61.8 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+96.4 ms ± 1.01 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+115 ms ± 1.64 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+14 5
+111 ms ± 1.58 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+106 ms ± 1.35 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+125 ms ± 4.2 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+14 6
+113 ms ± 2.01 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+87.4 ms ± 477 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+125 ms ± 1.87 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+14 7
+114 ms ± 2.8 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+103 ms ± 729 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+114 ms ± 590 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+14 8
+116 ms ± 4.13 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+99.1 ms ± 3.9 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+115 ms ± 264 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+14 9
+111 ms ± 864 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+104 ms ± 887 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+111 ms ± 1.92 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+14 10
+109 ms ± 723 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+101 ms ± 523 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+110 ms ± 315 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+14 11
+110 ms ± 954 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+98.2 ms ± 989 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+117 ms ± 757 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+14 12
+113 ms ± 565 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+108 ms ± 844 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+110 ms ± 318 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+14 13
+116 ms ± 153 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+98 ms ± 306 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+116 ms ± 267 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+14 14
+113 ms ± 1.25 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+94.1 ms ± 376 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+120 ms ± 170 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+14 15
+106 ms ± 759 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+90.9 ms ± 538 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+118 ms ± 1.03 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+14 16
+110 ms ± 117 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+98.4 ms ± 162 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+114 ms ± 231 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+14 17
+108 ms ± 727 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+101 ms ± 1.19 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+117 ms ± 544 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+14 18
+109 ms ± 682 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+96.8 ms ± 839 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+115 ms ± 1.31 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+14 19
+110 ms ± 380 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+97.8 ms ± 1.47 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+119 ms ± 65.1 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+14 20
+123 ms ± 6.51 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+109 ms ± 1.47 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+115 ms ± 518 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+14 21
+109 ms ± 2.31 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+98.8 ms ± 2.85 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+117 ms ± 1.87 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+14 22
+119 ms ± 1.59 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+91.2 ms ± 850 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+128 ms ± 2.71 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+14 23
+119 ms ± 955 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+107 ms ± 1.16 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+123 ms ± 4.34 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+14 24
+114 ms ± 3.1 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+108 ms ± 3.98 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+115 ms ± 702 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+14 25
+108 ms ± 1.17 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+106 ms ± 7.3 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+121 ms ± 2.24 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+14 26
+116 ms ± 1.15 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+114 ms ± 823 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+118 ms ± 2.44 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+14 27
+113 ms ± 4.59 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+99.5 ms ± 434 µs per loop (mean ± std. dev. of 3 runs, 10 loops each)
+113 ms ± 1.09 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+15 0
+239 ms ± 3.88 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+219 ms ± 2.62 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+234 ms ± 3.73 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+15 1
+249 ms ± 1.79 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+207 ms ± 10.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+241 ms ± 3.07 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+15 2
+238 ms ± 3.75 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+197 ms ± 10.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+252 ms ± 4.86 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+15 3
+235 ms ± 3.89 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+226 ms ± 7.16 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+235 ms ± 3.74 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+15 4
+227 ms ± 753 µs per loop (mean ± std. dev. of 3 runs, 1 loop each)
+181 ms ± 2.23 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+249 ms ± 5.27 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+15 5
+219 ms ± 3.88 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+186 ms ± 1.99 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+252 ms ± 2.87 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+15 6
+214 ms ± 4.82 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+222 ms ± 3.93 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+220 ms ± 4.15 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+15 7
+240 ms ± 3.46 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+219 ms ± 8.19 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+249 ms ± 23.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+15 8
+247 ms ± 1.41 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+200 ms ± 2.41 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+256 ms ± 10.6 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+15 9
+243 ms ± 8.72 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+209 ms ± 2.07 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+245 ms ± 864 µs per loop (mean ± std. dev. of 3 runs, 1 loop each)
+15 10
+228 ms ± 3.65 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+199 ms ± 3.96 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+263 ms ± 8.2 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+15 11
+222 ms ± 4.2 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+228 ms ± 1.66 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+236 ms ± 3.68 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+15 12
+237 ms ± 3.87 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+194 ms ± 2.65 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+245 ms ± 2.73 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+15 13
+225 ms ± 3.41 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+206 ms ± 2.36 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+270 ms ± 40.9 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+15 14
+243 ms ± 4.54 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+214 ms ± 19.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+316 ms ± 35.9 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+15 15
+240 ms ± 6.09 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+212 ms ± 7.14 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+255 ms ± 2.44 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+15 16
+247 ms ± 3.19 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+185 ms ± 1.59 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+260 ms ± 8.48 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+15 17
+242 ms ± 4.8 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+204 ms ± 7.21 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+255 ms ± 4.25 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+15 18
+215 ms ± 3.44 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+199 ms ± 3.33 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+255 ms ± 11 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+15 19
+225 ms ± 2.59 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+214 ms ± 3.21 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+260 ms ± 9.01 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+15 20
+213 ms ± 1.97 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+186 ms ± 2.29 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+260 ms ± 16.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+15 21
+243 ms ± 26.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+211 ms ± 4.41 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+240 ms ± 3.13 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+15 22
+228 ms ± 2.28 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+205 ms ± 3.13 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+238 ms ± 3.54 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+15 23
+243 ms ± 511 µs per loop (mean ± std. dev. of 3 runs, 1 loop each)
+210 ms ± 2.67 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+224 ms ± 4.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+15 24
+214 ms ± 1.21 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+195 ms ± 1 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+240 ms ± 2.37 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+15 25
+229 ms ± 2.52 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+200 ms ± 9.1 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+246 ms ± 2.73 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+15 26
+230 ms ± 4.76 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+201 ms ± 4.12 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+243 ms ± 4.08 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+15 27
+241 ms ± 3.21 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+203 ms ± 2.61 ms per loop (mean ± std. dev. of 3 runs, 10 loops each)
+260 ms ± 10.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+16 0
+463 ms ± 10.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+430 ms ± 15 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+533 ms ± 6.68 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+16 1
+472 ms ± 32.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+388 ms ± 16.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+497 ms ± 1.04 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+16 2
+449 ms ± 1.54 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+385 ms ± 4.9 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+522 ms ± 5.68 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+16 3
+465 ms ± 15.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+454 ms ± 11.8 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+508 ms ± 6.98 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+16 4
+459 ms ± 9.16 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+460 ms ± 9.93 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+456 ms ± 2.81 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+16 5
+387 ms ± 654 µs per loop (mean ± std. dev. of 3 runs, 1 loop each)
+386 ms ± 394 µs per loop (mean ± std. dev. of 3 runs, 1 loop each)
+497 ms ± 3.71 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+16 6
+449 ms ± 2.96 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+376 ms ± 3.6 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+505 ms ± 8.21 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+16 7
+483 ms ± 6.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+445 ms ± 2.41 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+480 ms ± 4.21 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+16 8
+447 ms ± 33.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+368 ms ± 1.96 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+499 ms ± 1.83 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+16 9
+468 ms ± 4.46 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+353 ms ± 4.02 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+544 ms ± 4.87 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+16 10
+487 ms ± 3.05 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+396 ms ± 6.9 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+546 ms ± 22.5 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+16 11
+477 ms ± 4.91 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+414 ms ± 27.5 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+546 ms ± 17.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+16 12
+506 ms ± 10.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+432 ms ± 29.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+487 ms ± 9.45 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+16 13
+454 ms ± 2.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+425 ms ± 3.56 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+494 ms ± 9.73 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+16 14
+446 ms ± 14.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+361 ms ± 2.95 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+546 ms ± 9.49 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+16 15
+509 ms ± 1.26 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+390 ms ± 2.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+519 ms ± 1.63 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+16 16
+459 ms ± 4.58 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+396 ms ± 6.84 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+521 ms ± 15.6 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+16 17
+465 ms ± 7.21 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+418 ms ± 2.05 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+480 ms ± 5.09 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+16 18
+474 ms ± 8.73 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+436 ms ± 4.19 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+503 ms ± 27.9 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+16 19
+407 ms ± 1.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+376 ms ± 5.56 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+499 ms ± 5.97 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+16 20
+438 ms ± 3.53 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+396 ms ± 4.89 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+486 ms ± 5.64 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+16 21
+459 ms ± 1.75 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+425 ms ± 3.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+529 ms ± 16.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+16 22
+462 ms ± 10.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+411 ms ± 7.01 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+490 ms ± 6.09 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+16 23
+463 ms ± 1.39 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+369 ms ± 4.53 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+503 ms ± 6.43 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+16 24
+472 ms ± 5.09 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+394 ms ± 2.53 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+496 ms ± 2.29 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+16 25
+452 ms ± 3.66 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+395 ms ± 2.05 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+499 ms ± 4.15 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+16 26
+457 ms ± 1.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+359 ms ± 1.49 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+526 ms ± 8.11 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+16 27
+455 ms ± 17 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+447 ms ± 712 µs per loop (mean ± std. dev. of 3 runs, 1 loop each)
+498 ms ± 7.25 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17 0
+1.02 s ± 26.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+850 ms ± 8.23 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.06 s ± 6.55 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17 1
+929 ms ± 19.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+869 ms ± 14.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+980 ms ± 18.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17 2
+896 ms ± 10.9 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+857 ms ± 34.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.06 s ± 54.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17 3
+985 ms ± 13.5 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+832 ms ± 5.64 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.06 s ± 16.9 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17 4
+1.03 s ± 31.8 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+781 ms ± 18.5 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.11 s ± 23.2 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17 5
+1 s ± 11.6 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+721 ms ± 7.37 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.08 s ± 4.77 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17 6
+1.01 s ± 31.5 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+793 ms ± 6.61 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.09 s ± 5.57 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17 7
+899 ms ± 1.64 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+821 ms ± 52.9 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.11 s ± 11.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17 8
+1.06 s ± 16.8 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+874 ms ± 8.88 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.03 s ± 12.2 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17 9
+1.01 s ± 1.9 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+815 ms ± 13.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+997 ms ± 20 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17 10
+935 ms ± 4.13 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+779 ms ± 31 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.03 s ± 1.83 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17 11
+986 ms ± 28.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+746 ms ± 26.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.11 s ± 24.5 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17 12
+1.1 s ± 33.2 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+837 ms ± 15.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.06 s ± 47.8 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17 13
+1 s ± 24 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+892 ms ± 3.09 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+982 ms ± 13.2 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17 14
+965 ms ± 7.04 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+792 ms ± 3.03 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1 s ± 10.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17 15
+940 ms ± 4.03 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+827 ms ± 44.6 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.16 s ± 96.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17 16
+1.04 s ± 17.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+738 ms ± 1.72 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.11 s ± 4.35 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17 17
+1.04 s ± 22.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+784 ms ± 29.5 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.15 s ± 32 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17 18
+1.11 s ± 12.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+941 ms ± 60.6 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+998 ms ± 15.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17 19
+841 ms ± 9.25 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+781 ms ± 22.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.01 s ± 2.73 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17 20
+932 ms ± 15.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+820 ms ± 9.88 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+984 ms ± 10.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17 21
+992 ms ± 13 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+847 ms ± 1.24 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+956 ms ± 6.41 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17 22
+932 ms ± 8.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+761 ms ± 5.8 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.04 s ± 16.9 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17 23
+997 ms ± 41.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+768 ms ± 16.5 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.18 s ± 7.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17 24
+967 ms ± 20.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+929 ms ± 11.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.13 s ± 31.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17 25
+973 ms ± 18.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+951 ms ± 37.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.07 s ± 34 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17 26
+1 s ± 22.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+846 ms ± 3.17 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.09 s ± 21.9 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17 27
+865 ms ± 10.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+825 ms ± 1.96 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.06 s ± 16.2 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18 0
+2.16 s ± 60 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.64 s ± 24.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2.16 s ± 25.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18 1
+2.08 s ± 26.5 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.77 s ± 4.46 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2.06 s ± 33.6 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18 2
+1.82 s ± 14.5 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.47 s ± 10.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2.23 s ± 43.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18 3
+1.92 s ± 21.2 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.6 s ± 10.5 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2.09 s ± 29.5 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18 4
+2.06 s ± 44.6 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.66 s ± 23.5 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2.06 s ± 36.8 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18 5
+2.06 s ± 21.6 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.49 s ± 20.6 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2.24 s ± 32.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18 6
+1.83 s ± 19.2 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.61 s ± 19.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2.1 s ± 25.6 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18 7
+2.02 s ± 49.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.83 s ± 26.5 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.97 s ± 9.91 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18 8
+2.01 s ± 888 µs per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.64 s ± 4.94 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2.07 s ± 27.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18 9
+2.12 s ± 24.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.59 s ± 11.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2.21 s ± 13 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18 10
+1.87 s ± 24 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.62 s ± 3.61 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2.11 s ± 16.6 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18 11
+1.78 s ± 14.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.53 s ± 9.16 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2.19 s ± 35.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18 12
+1.83 s ± 13.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.4 s ± 4.92 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2.28 s ± 17 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18 13
+1.77 s ± 22 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.74 s ± 65.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2.11 s ± 12.2 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18 14
+2.13 s ± 799 µs per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.5 s ± 17.2 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2.21 s ± 14 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18 15
+1.8 s ± 10.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.79 s ± 15.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.99 s ± 3.26 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18 16
+1.87 s ± 15.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.58 s ± 23.2 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2.14 s ± 3.51 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18 17
+1.84 s ± 4.04 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.61 s ± 8.16 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2.15 s ± 24.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18 18
+1.92 s ± 22.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.47 s ± 9.91 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2.27 s ± 32.5 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18 19
+2.08 s ± 11.6 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.6 s ± 6.64 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2.15 s ± 38.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18 20
+1.82 s ± 16.8 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.71 s ± 7.23 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2.08 s ± 21.8 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18 21
+1.81 s ± 23.5 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.7 s ± 23.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2.14 s ± 40.8 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18 22
+1.77 s ± 45.2 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.57 s ± 4.95 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2.26 s ± 6.9 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18 23
+2.03 s ± 24.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.78 s ± 25 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2.1 s ± 9.44 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18 24
+1.95 s ± 8 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.45 s ± 8.56 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2.25 s ± 37 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18 25
+1.92 s ± 30.9 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.75 s ± 15.5 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2.03 s ± 39.6 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18 26
+1.83 s ± 11.5 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.58 s ± 8.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2.22 s ± 44.8 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18 27
+1.93 s ± 22.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1.69 s ± 25.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2.09 s ± 33 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19 0
+4.03 s ± 92.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+3.12 s ± 42.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+4.42 s ± 86.6 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19 1
+4.11 s ± 32.2 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+3 s ± 21.9 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+4.58 s ± 75.5 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19 2
+4.04 s ± 21.6 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+3.38 s ± 24.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+4.13 s ± 44.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19 3
+4.03 s ± 17.8 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+3.16 s ± 65.8 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+4.49 s ± 33.6 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19 4
+3.85 s ± 4.45 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+3.69 s ± 20.8 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+4.56 s ± 102 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19 5
+3.52 s ± 14.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+3.07 s ± 58 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+4.6 s ± 49.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19 6
+4.37 s ± 110 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+3.16 s ± 47.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+4.69 s ± 31 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19 7
+3.56 s ± 92.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+3.3 s ± 53.8 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+4.58 s ± 65.8 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19 8
+3.66 s ± 79.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+3.62 s ± 36.6 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+4.21 s ± 87 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19 9
+4.14 s ± 86.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+3.57 s ± 44.9 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+4.37 s ± 50.2 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19 10
+3.89 s ± 54.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+3.41 s ± 4.72 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+4.5 s ± 93 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19 11
+4.19 s ± 58.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+3.25 s ± 70 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+4.59 s ± 165 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19 12
+4.06 s ± 81 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+3.22 s ± 80.2 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+4.68 s ± 84.2 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19 13
+4.15 s ± 57.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+3.39 s ± 67.6 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+4.35 s ± 43.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19 14
+3.88 s ± 130 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+3.45 s ± 56.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+4.41 s ± 104 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19 15
+3.8 s ± 72.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+3.19 s ± 11.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+4.76 s ± 71 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19 16
+3.99 s ± 65.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2.87 s ± 36 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+4.84 s ± 156 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19 17
+4.23 s ± 40.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2.93 s ± 42.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+4.68 s ± 41.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19 18
+3.58 s ± 18.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+3.01 s ± 34.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+4.7 s ± 75.6 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19 19
+4.28 s ± 58.2 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+3.33 s ± 49.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+4.72 s ± 47.6 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19 20
+4.1 s ± 149 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+3.54 s ± 60.5 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+4.46 s ± 93.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19 21
+4 s ± 47.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+3.41 s ± 42 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+4.65 s ± 93.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19 22
+3.96 s ± 16.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+3.38 s ± 91.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+4.57 s ± 76.8 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19 23
+3.8 s ± 58 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+4.07 s ± 87.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+3.94 s ± 62.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19 24
+4.03 s ± 43.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+3.27 s ± 43.8 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+4.36 s ± 70.9 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19 25
+3.93 s ± 47.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+3.21 s ± 74.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+4.82 s ± 64.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19 26
+3.52 s ± 9.49 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+3.5 s ± 101 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+4.66 s ± 69.5 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19 27
+3.79 s ± 28.8 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+3.46 s ± 142 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+4.42 s ± 112 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20 0
+7.62 s ± 28.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+6.42 s ± 105 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+9.99 s ± 58.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20 1
+8.45 s ± 184 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+6.6 s ± 97.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+8.76 s ± 61.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20 2
+8.46 s ± 41.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+5.63 s ± 18.5 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+9.96 s ± 215 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20 3
+7.27 s ± 125 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+6.39 s ± 16.5 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+9.27 s ± 75 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20 4
+7.76 s ± 116 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+6.15 s ± 229 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+10.1 s ± 241 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20 5
+7.74 s ± 179 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+6.3 s ± 276 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+9.8 s ± 266 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20 6
+7.44 s ± 28.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+6.98 s ± 287 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+9.48 s ± 219 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20 7
+9.44 s ± 130 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+7.6 s ± 62.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+9.74 s ± 297 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20 8
+8.11 s ± 96.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+6.03 s ± 10.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+11.4 s ± 170 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20 9
+9.45 s ± 25.9 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+7.32 s ± 7.31 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+10.1 s ± 90.8 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20 10
+8.38 s ± 114 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+8.39 s ± 37.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+9.14 s ± 86.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20 11
+9.11 s ± 88.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+7.58 s ± 26.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+9.56 s ± 73.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20 12
+9.29 s ± 118 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+7.1 s ± 68.9 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+10.6 s ± 120 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20 13
+8.19 s ± 15.2 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+7.1 s ± 43.2 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+10.3 s ± 97.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20 14
+9.8 s ± 14.5 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+7.58 s ± 22.2 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+9.73 s ± 43.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20 15
+8.71 s ± 152 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+8.05 s ± 30 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+9.6 s ± 33 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20 16
+9.87 s ± 41.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+5.97 s ± 24.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+11.3 s ± 117 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20 17
+8.86 s ± 77.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+7.75 s ± 48 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+9.58 s ± 167 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20 18
+8.72 s ± 84.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+8.59 s ± 48 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+8.88 s ± 237 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20 19
+8.9 s ± 50.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+7.2 s ± 76 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+10.2 s ± 39.8 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20 20
+8.77 s ± 13 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+8.42 s ± 94 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+9.16 s ± 251 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20 21
+9.63 s ± 85.6 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+7.46 s ± 61.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+9.77 s ± 89.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20 22
+8.54 s ± 499 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+6.07 s ± 58.5 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+8.96 s ± 34.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20 23
+7.9 s ± 25.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+6.57 s ± 72.2 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+8.47 s ± 61.2 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20 24
+8.82 s ± 53.2 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+5.53 s ± 56.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+9.67 s ± 3.51 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20 25
+8.47 s ± 318 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+6.07 s ± 55.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+9.65 s ± 222 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20 26
+8.24 s ± 52.6 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+6.81 s ± 105 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+9.44 s ± 14.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20 27
+7.36 s ± 23.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+6.83 s ± 236 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+9.62 s ± 211 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21 0
+14.4 s ± 217 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+13.6 s ± 265 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20.2 s ± 78.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21 1
+17 s ± 89.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+12.3 s ± 68.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20.5 s ± 176 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21 2
+16.3 s ± 419 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+13.4 s ± 114 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18.5 s ± 146 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21 3
+17.7 s ± 355 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+12.1 s ± 186 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20.3 s ± 324 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21 4
+14.7 s ± 319 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+13.8 s ± 375 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18.6 s ± 503 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21 5
+15.8 s ± 53.5 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+11.6 s ± 266 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20.1 s ± 383 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21 6
+15.3 s ± 322 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+12.1 s ± 230 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19.6 s ± 432 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21 7
+15.5 s ± 377 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+14.5 s ± 148 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18.1 s ± 193 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21 8
+16.7 s ± 282 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+12.1 s ± 318 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19.8 s ± 228 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21 9
+15.9 s ± 463 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+12.9 s ± 163 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18.8 s ± 643 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21 10
+14.5 s ± 176 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+11.2 s ± 87.6 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20.5 s ± 314 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21 11
+16.9 s ± 494 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+14.6 s ± 205 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17.8 s ± 205 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21 12
+14 s ± 25.8 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+12 s ± 192 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21.2 s ± 44.9 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21 13
+16.1 s ± 475 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+13.5 s ± 52.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18.3 s ± 433 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21 14
+15.1 s ± 141 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+14.3 s ± 281 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17.3 s ± 221 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21 15
+16.5 s ± 184 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+11.9 s ± 89.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19.5 s ± 262 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21 16
+16.3 s ± 360 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+12.7 s ± 485 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19.3 s ± 267 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21 17
+15.4 s ± 104 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+13.8 s ± 204 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+18.8 s ± 177 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21 18
+14.6 s ± 149 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+12 s ± 158 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20.2 s ± 296 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21 19
+18.4 s ± 145 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+12.9 s ± 332 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19.4 s ± 156 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21 20
+16.2 s ± 198 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+12.7 s ± 166 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20.5 s ± 416 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21 21
+15.6 s ± 108 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+12.3 s ± 310 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19.5 s ± 299 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21 22
+15.7 s ± 80.5 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+11.6 s ± 37.2 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19.7 s ± 282 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21 23
+17 s ± 103 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+14.1 s ± 73 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17.4 s ± 152 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21 24
+15.3 s ± 215 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+14.3 s ± 47.2 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17.8 s ± 211 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21 25
+16.4 s ± 121 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+12.4 s ± 188 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+19.1 s ± 493 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21 26
+16 s ± 173 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+14.9 s ± 160 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+16.7 s ± 180 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21 27
+15.6 s ± 119 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+13.8 s ± 35.9 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+17.5 s ± 242 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+22 0
+34.4 s ± 238 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+25.7 s ± 152 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+35.2 s ± 318 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+22 1
+29.3 s ± 218 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24.2 s ± 87 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+35.1 s ± 21 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+22 2
+34 s ± 596 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20.3 s ± 138 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+38 s ± 566 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+22 3
+30.9 s ± 404 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21.1 s ± 133 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+37.1 s ± 410 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+22 4
+27.4 s ± 155 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24.5 s ± 283 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+34.4 s ± 203 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+22 5
+28.1 s ± 212 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24.6 s ± 169 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+33.9 s ± 213 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+22 6
+29.3 s ± 166 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+23.9 s ± 243 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+33.9 s ± 357 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+22 7
+32.1 s ± 277 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+25 s ± 156 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+33.7 s ± 214 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+22 8
+35.3 s ± 231 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21.8 s ± 135 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+36.3 s ± 198 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+22 9
+27.3 s ± 284 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24 s ± 171 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+34.3 s ± 206 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+22 10
+30.2 s ± 311 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+22.7 s ± 171 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+35.5 s ± 271 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+22 11
+31.4 s ± 281 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21.8 s ± 166 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+36.6 s ± 275 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+22 12
+35.8 s ± 393 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+22 s ± 157 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+36.4 s ± 342 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+22 13
+26.4 s ± 430 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+23.6 s ± 144 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+33.7 s ± 566 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+22 14
+30.8 s ± 291 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24.4 s ± 137 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+33.5 s ± 87.9 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+22 15
+30.2 s ± 274 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24.8 s ± 286 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+33.6 s ± 154 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+22 16
+32.8 s ± 259 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+22.9 s ± 107 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+35.1 s ± 381 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+22 17
+28.1 s ± 202 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+20.9 s ± 181 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+36.3 s ± 596 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+22 18
+29 s ± 178 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24.9 s ± 122 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+32.5 s ± 580 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+22 19
+24 s ± 188 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21.4 s ± 267 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+36.2 s ± 43.6 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+22 20
+28.1 s ± 304 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24.5 s ± 155 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+33.2 s ± 432 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+22 21
+26.8 s ± 439 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24.3 s ± 218 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+33.9 s ± 373 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+22 22
+27.3 s ± 169 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+22.8 s ± 179 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+35.4 s ± 220 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+22 23
+30 s ± 247 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+23.4 s ± 157 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+35.9 s ± 377 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+22 24
+28.2 s ± 379 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+26.3 s ± 267 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+32.3 s ± 514 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+22 25
+27.9 s ± 172 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+26.5 s ± 142 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+31.4 s ± 665 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+22 26
+29.6 s ± 240 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+21.2 s ± 66.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+36.5 s ± 758 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+22 27
+28.8 s ± 104 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+25.6 s ± 193 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+32.7 s ± 254 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+23 0
+59.6 s ± 47 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+51.4 s ± 302 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 3s ± 106 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+23 1
+55.5 s ± 534 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+53.6 s ± 155 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 2s ± 654 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+23 2
+55.4 s ± 76 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+46.8 s ± 170 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 10s ± 557 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+23 3
+1min 9s ± 890 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+45.4 s ± 246 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 10s ± 1.3 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+23 4
+1min ± 301 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+39.5 s ± 266 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 18s ± 446 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+23 5
+54.2 s ± 211 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+46.8 s ± 150 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 10s ± 609 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+23 6
+54.8 s ± 67.3 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+44.9 s ± 656 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 13s ± 1.96 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+23 7
+1min 1s ± 231 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+50.5 s ± 560 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 8s ± 755 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+23 8
+1min 1s ± 482 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+51.3 s ± 237 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 10s ± 791 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+23 9
+1min 8s ± 590 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+45.9 s ± 235 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 13s ± 85.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+23 10
+58.9 s ± 87.9 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+49 s ± 295 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 9s ± 1.05 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+23 11
+1min 5s ± 771 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+46.1 s ± 334 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 13s ± 856 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+23 12
+1min ± 557 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+51.1 s ± 48.7 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 10s ± 654 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+23 13
+57.5 s ± 479 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+53.4 s ± 451 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 7s ± 715 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+23 14
+1min 3s ± 72.8 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+48.5 s ± 284 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 15s ± 408 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+23 15
+58.1 s ± 671 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+50.4 s ± 110 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 10s ± 74 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+23 16
+54.8 s ± 846 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+52.5 s ± 293 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 7s ± 1.23 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+23 17
+55.9 s ± 659 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+53.8 s ± 1.31 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 8s ± 723 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+23 18
+57.4 s ± 345 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+44.9 s ± 290 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 12s ± 477 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+23 19
+1min 3s ± 70.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+47.4 s ± 340 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 11s ± 47.1 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+23 20
+54.1 s ± 253 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+46.4 s ± 198 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 14s ± 1.4 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+23 21
+1min 5s ± 518 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+45.6 s ± 384 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 15s ± 91.4 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+23 22
+1min 2s ± 73.8 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+46.1 s ± 333 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 15s ± 95.6 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+23 23
+1min 1s ± 231 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+47 s ± 378 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 10s ± 163 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+23 24
+51.3 s ± 164 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+44.9 s ± 201 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 13s ± 340 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+23 25
+1min 8s ± 415 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+43.7 s ± 51 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 12s ± 404 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+23 26
+56.5 s ± 99.2 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+51.7 s ± 58.6 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 4s ± 619 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+23 27
+46.3 s ± 476 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+52.8 s ± 87 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 3s ± 848 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24 0
+1min 46s ± 873 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 30s ± 537 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2min 26s ± 692 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24 1
+2min 13s ± 898 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 25s ± 615 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2min 32s ± 551 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24 2
+1min 52s ± 793 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 26s ± 1.01 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2min 27s ± 429 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24 3
+1min 55s ± 475 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 30s ± 621 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2min 24s ± 652 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24 4
+2min 12s ± 1.54 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 31s ± 496 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2min 25s ± 1.43 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24 5
+1min 50s ± 503 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 31s ± 370 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2min 25s ± 2.12 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24 6
+1min 51s ± 121 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 38s ± 395 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2min 20s ± 1.43 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24 7
+2min 10s ± 687 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 30s ± 641 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2min 24s ± 1.57 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24 8
+2min 1s ± 724 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 34s ± 771 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2min 19s ± 1.3 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24 9
+2min 11s ± 1.19 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 30s ± 282 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2min 23s ± 1.95 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24 10
+1min 49s ± 129 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 50s ± 346 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 58s ± 1.5 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24 11
+2min 2s ± 474 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 30s ± 279 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2min 18s ± 830 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24 12
+2min 3s ± 403 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 36s ± 226 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2min 13s ± 703 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24 13
+1min 55s ± 4.66 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 42s ± 2.33 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2min 22s ± 1.33 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24 14
+1min 45s ± 924 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 34s ± 172 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2min 24s ± 3.69 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24 15
+1min 58s ± 604 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 35s ± 559 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2min 31s ± 2.27 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24 16
+2min 14s ± 2.68 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 36s ± 1.12 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2min 34s ± 4.97 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24 17
+2min 5s ± 2.65 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 28s ± 2.17 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+3min 1s ± 413 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24 18
+1min 37s ± 1.91 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 23s ± 313 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2min 35s ± 945 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24 19
+2min 3s ± 1.08 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 57s ± 1.19 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2min 7s ± 2.25 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24 20
+1min 46s ± 361 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 45s ± 1.09 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2min 15s ± 1.16 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24 21
+1min 54s ± 646 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 35s ± 1.85 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2min 31s ± 3.71 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24 22
+2min 19s ± 1.28 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 36s ± 290 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2min 36s ± 1.39 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24 23
+2min 4s ± 973 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 23s ± 211 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2min 54s ± 2.4 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24 24
+2min ± 358 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 45s ± 1.65 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2min 35s ± 1.52 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24 25
+2min 13s ± 4.38 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 31s ± 615 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2min 53s ± 1.91 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24 26
+2min 21s ± 2.19 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 35s ± 350 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2min 33s ± 932 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+24 27
+1min 41s ± 1.22 s per loop (mean ± std. dev. of 3 runs, 1 loop each)
+1min 37s ± 143 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+2min 34s ± 1.55 s per loop (mean ± std. dev. of 3 runs, 1 loop each)

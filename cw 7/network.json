@@ -1,0 +1,9 @@
+{
+  "root": "ache",
+  "states": ["chair", "sport", "back", "ache"],
+  "edges": [
+    ["chair", "back"],
+    ["sport", "back"],
+    ["back", "ache"]
+  ]
+}

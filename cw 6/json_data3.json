@@ -1,0 +1,74 @@
+{
+  "scores": [
+    {
+      "beta": 0.1,
+      "gamma": 0.1,
+      "epsilon": 0.1,
+      "success rate": 1.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.2,
+      "gamma": 0.2,
+      "epsilon": 0.2,
+      "success rate": 1.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.3,
+      "gamma": 0.3,
+      "epsilon": 0.3,
+      "success rate": 1.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.4,
+      "gamma": 0.4,
+      "epsilon": 0.4,
+      "success rate": 1.0,
+      "success rate std": 0.0
+    },
+    {
+      "beta": 0.5,
+      "gamma": 0.5,
+      "epsilon": 0.5,
+      "success rate": 0.9998400000000001,
+      "success rate std": 0.0007838367176906177
+    },
+    {
+      "beta": 0.6,
+      "gamma": 0.6,
+      "epsilon": 0.6,
+      "success rate": 0.9998,
+      "success rate std": 0.0009797958971132722
+    },
+    {
+      "beta": 0.7,
+      "gamma": 0.7,
+      "epsilon": 0.7,
+      "success rate": 0.99976,
+      "success rate std": 0.0011757550765359268
+    },
+    {
+      "beta": 0.8,
+      "gamma": 0.8,
+      "epsilon": 0.8,
+      "success rate": 0.99992,
+      "success rate std": 0.000271293199325011
+    },
+    {
+      "beta": 0.9,
+      "gamma": 0.9,
+      "epsilon": 0.9,
+      "success rate": 0.9998400000000001,
+      "success rate std": 0.00036660605559646754
+    },
+    {
+      "beta": 1.0,
+      "gamma": 1.0,
+      "epsilon": 1.0,
+      "success rate": 1.0,
+      "success rate std": 0.0
+    }
+  ]
+}
